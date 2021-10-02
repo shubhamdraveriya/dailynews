@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Allow: /
+sitemap: https://shubhamdraveriya.github.io/dailynews/#/
