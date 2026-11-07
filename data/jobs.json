@@ -1,5 +1,3089 @@
 {
-  "generatedAt": null,
-  "count": 0,
-  "items": []
+  "generatedAt": "2026-11-07T07:24:05.251Z",
+  "count": 235,
+  "items": [
+    {
+      "id": "d03260aa7843",
+      "title": "Sr/Staff Digital Design Engineer",
+      "company": "Lightmatter",
+      "location": "Toronto, ON",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5474736008?gh_jid=5474736008",
+      "postedAt": "2026-11-07T01:28:27.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "645a7bebdb58",
+      "title": "Sr/Staff Digital Design Engineer",
+      "company": "Lightmatter",
+      "location": "Boston, MA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5474727008?gh_jid=5474727008",
+      "postedAt": "2026-11-07T01:28:25.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "6ba4ea924acb",
+      "title": "Sr/Staff Digital Design Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5472071008?gh_jid=5472071008",
+      "postedAt": "2026-11-07T01:28:23.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "9da51d8dccad",
+      "title": "Physical Design and CAD Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4752247005",
+      "postedAt": "2026-11-06T23:50:41.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "01206e159be0",
+      "title": "Physical Design Engineer, ML4PD",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5270485007",
+      "postedAt": "2026-11-06T22:48:36.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "21d52bb4add6",
+      "title": "DFT Engineer",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5270525007",
+      "postedAt": "2026-11-06T20:16:59.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "e2dd1ca51f14",
+      "title": "Photonics Characterization Intern- Winter 2026",
+      "company": "Lightmatter",
+      "location": "Boston, MA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473572008?gh_jid=5473572008",
+      "postedAt": "2026-11-05T21:40:53.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "4b1f0d9810f5",
+      "title": "Principal Formal Verification Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4751453005",
+      "postedAt": "2026-11-05T08:29:50.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "64ecc65b8806",
+      "title": "Site Reliability Engineer - Fleet Command & Control",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/15fa07f2-b1e9-43dd-8e9f-47854633c626",
+      "postedAt": "2026-11-04T19:20:59.534Z",
+      "categories": [
+        "process"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "42fcd72f148c",
+      "title": "Principal PCS/PMA RTL Design Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733832005",
+      "postedAt": "2026-11-03T21:15:26.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "010f2defd905",
+      "title": "Lead Verification Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4746009005",
+      "postedAt": "2026-11-03T17:28:13.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "e7f09e27687c",
+      "title": "Technical Lead Digital Design Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4748103005",
+      "postedAt": "2026-11-02T19:47:43.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "5a949ae8b0c8",
+      "title": "Principal Physical Design CAD Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749775005",
+      "postedAt": "2026-11-01T10:49:32.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "8aa0cdf1d731",
+      "title": "Staff/ Principal Physical Design STA Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749774005",
+      "postedAt": "2026-11-01T10:48:57.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "b789502eef57",
+      "title": "Staff / Principal ASIC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749765005",
+      "postedAt": "2026-11-01T10:48:16.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "573a3006cd76",
+      "title": "DFT Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749766005",
+      "postedAt": "2026-11-01T10:48:02.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "798d19423cef",
+      "title": "Staff DFT Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749767005",
+      "postedAt": "2026-11-01T10:47:49.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "783f7e6306d4",
+      "title": "Principal DFT Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749768005",
+      "postedAt": "2026-11-01T10:47:38.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "41f282cec1fb",
+      "title": "Staff Physical Design Engineer - SoC EMIR Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749769005",
+      "postedAt": "2026-11-01T10:47:25.000Z",
+      "categories": [
+        "design",
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "7415cf5393aa",
+      "title": "Senior/ Staff Physical Design Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749771005",
+      "postedAt": "2026-11-01T10:46:49.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "496531b16e35",
+      "title": "Physical Design Team Lead",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749773005",
+      "postedAt": "2026-11-01T10:46:17.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "a9d4956c8bf0",
+      "title": "Staff/ Principal Chip Top Physical Design  Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749772005",
+      "postedAt": "2026-11-01T10:45:44.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "2747ec62504e",
+      "title": "Senior ASIC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4749764005",
+      "postedAt": "2026-11-01T10:38:17.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "e8b2589ee9e1",
+      "title": "Principal Place and Route (PnR) Engineer",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236715004",
+      "postedAt": "2026-10-29T21:17:31.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "9abcce2b204f",
+      "title": "Senior Principal Model Bring-up Engineer",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6232108004",
+      "postedAt": "2026-10-29T21:17:18.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "798d1cbbbd0c",
+      "title": "Senior Design Verification Engineer, AI Hardware",
+      "company": "Tenstorrent",
+      "location": "Belgrade, Serbia",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5277430007",
+      "postedAt": "2026-10-28T10:17:52.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "c1bb621d9844",
+      "title": "Staff Design Verification Engineer, AI Hardware",
+      "company": "Tenstorrent",
+      "location": "Belgrade, Serbia",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5277434007",
+      "postedAt": "2026-10-28T10:17:42.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "f9e4b4a8e873",
+      "title": "Post-Silicon Validation Engineer, New Grad",
+      "company": "SambaNova",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236619004",
+      "postedAt": "2026-10-27T21:59:44.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "c5287671b95c",
+      "title": "Physical Design Engineer, New Grad",
+      "company": "SambaNova",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236609004",
+      "postedAt": "2026-10-27T21:59:22.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "01d01dfbe323",
+      "title": "Design Verification Engineer, New Grad",
+      "company": "SambaNova",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6236595004",
+      "postedAt": "2026-10-27T21:58:56.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "8f15b31a2c6a",
+      "title": "Principal Design Verification Engineer- SerDes/PHY IP",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4748151005",
+      "postedAt": "2026-10-27T17:45:32.000Z",
+      "categories": [
+        "verification",
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "8783933d81b2",
+      "title": "Synthesis & STA Engineer – High-Speed SerDes",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4748148005",
+      "postedAt": "2026-10-27T17:35:59.000Z",
+      "categories": [
+        "physical",
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "2ab486e62884",
+      "title": "Senior Design Verification Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4737858005",
+      "postedAt": "2026-10-27T12:36:43.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "a4f37db7f64d",
+      "title": "Principal Verification Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4739285005",
+      "postedAt": "2026-10-26T19:51:56.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "2e85d087bebb",
+      "title": "Staff Engineer, RTL Design, AI Hardware",
+      "company": "Tenstorrent",
+      "location": "Belgrade, Serbia",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5273421007",
+      "postedAt": "2026-10-26T11:57:57.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "6677239f80d6",
+      "title": "Senior Engineer, RTL Design, AI Hardware",
+      "company": "Tenstorrent",
+      "location": "Belgrade, Serbia",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5273420007",
+      "postedAt": "2026-10-26T11:57:48.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "4a6652756c55",
+      "title": "Physical Design Team Lead",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4747436005",
+      "postedAt": "2026-10-25T14:31:05.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "21d87e6b0f56",
+      "title": "Physical Design Engineering Director",
+      "company": "Astera Labs",
+      "location": "Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4747377005",
+      "postedAt": "2026-10-24T00:08:11.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "f22fc03ad96e",
+      "title": "Design Verification Engineer - Compute",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/755e36f1-3186-4607-9037-f5a719e4740a",
+      "postedAt": "2026-10-22T18:13:45.535Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "c044a01812bd",
+      "title": "Principal Physical Design Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4746472005",
+      "postedAt": "2026-10-22T11:26:45.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "9abd7876f435",
+      "title": "Principal Post-Silicon Validation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4736479005",
+      "postedAt": "2026-10-20T19:08:55.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "c653489ac35f",
+      "title": "Microarchitect and RTL Designer - Compute",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/ab003575-d749-497c-8c0d-ecfd2fce8d63",
+      "postedAt": "2026-10-19T21:47:39.218Z",
+      "categories": [
+        "design",
+        "architecture"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "15e99df52fb2",
+      "title": "Internal Acceleration, Research Engineer (ASIC)",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/6d948f9a-a359-4107-9d30-4d62e8fe7707",
+      "postedAt": "2026-10-15T22:06:34.342Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "e3874034b519",
+      "title": "Internal Acceleration, Engineer (ASIC)",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/e88d1367-9166-4a00-b450-f194163c7225",
+      "postedAt": "2026-10-15T22:04:43.451Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "407d6ccbe6be",
+      "title": "Director ASIC Technical Program Management",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4744234005",
+      "postedAt": "2026-10-15T17:29:25.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "f4dc502a4dc7",
+      "title": "Teach Lead Physical Design Engineer",
+      "company": "Astera Labs",
+      "location": "Singapore, Singapore",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4738759005",
+      "postedAt": "2026-10-13T08:32:24.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "9c3e8480fa7e",
+      "title": "Principal Physical Design Engineer",
+      "company": "Astera Labs",
+      "location": "Singapore, Singapore",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4738758005",
+      "postedAt": "2026-10-13T08:29:46.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "e9fe3da74310",
+      "title": "Analog Mixed Signal Design Engineer",
+      "company": "Astera Labs",
+      "location": "Singapore, Singapore",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4741623005",
+      "postedAt": "2026-10-13T08:27:15.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "f161c1c1a554",
+      "title": "Tech Lead Analog Mixed-Signal IC Layout Engineer",
+      "company": "Astera Labs",
+      "location": "Singapore, Singapore",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4740707005",
+      "postedAt": "2026-10-13T08:22:17.000Z",
+      "categories": [
+        "physical",
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "1629db3cbfe7",
+      "title": "Senior Analog Mixed-Signal IC Layout Engineer",
+      "company": "Astera Labs",
+      "location": "Singapore, Singapore",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4738760005",
+      "postedAt": "2026-10-13T08:13:52.000Z",
+      "categories": [
+        "physical",
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "289024d32a8e",
+      "title": "Principal Mixed Analog Design Engineer",
+      "company": "Astera Labs",
+      "location": "Irvine, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733696005",
+      "postedAt": "2026-10-12T16:02:43.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "c5340f5b38f1",
+      "title": "Principal Physical Design Engineer",
+      "company": "Astera Labs",
+      "location": "Ahmedabad, Gujarat, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4742864005",
+      "postedAt": "2026-10-12T05:29:15.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "20b0737c75e6",
+      "title": "Principal Physical Design CAD Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4742858005",
+      "postedAt": "2026-10-11T12:11:38.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "5cc080f9d60d",
+      "title": "SMT Process Engineer (Greenfield Factory)",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/2a26154f-991b-4ed2-b189-555ced916791",
+      "postedAt": "2026-10-09T21:59:05.316Z",
+      "categories": [
+        "process"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "968c8cd5946e",
+      "title": "ATE Test Development Engineer",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5256828007",
+      "postedAt": "2026-10-08T15:50:21.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "e6c52d7d1729",
+      "title": "Principal SerDes Bring-up Validation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733814005",
+      "postedAt": "2026-10-05T17:54:34.000Z",
+      "categories": [
+        "analog",
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "7146ff3d301c",
+      "title": "Formal Verification Engineer",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States; Spain",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5239971007",
+      "postedAt": "2026-10-05T17:41:55.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "69da43be31f4",
+      "title": "Tech Lead, Digital Design Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4738463005",
+      "postedAt": "2026-09-30T15:03:32.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "4aa2a286002d",
+      "title": "Principal Logic Design Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4735008005",
+      "postedAt": "2026-09-30T06:27:58.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "a3a888cd731c",
+      "title": "Technical Program Manager SOC & Digital Design",
+      "company": "Tenstorrent",
+      "location": "Tokyo, Japan",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5251842007",
+      "postedAt": "2026-09-29T16:24:24.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "988960176a49",
+      "title": "Principal Verification Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4738838005",
+      "postedAt": "2026-09-29T13:01:30.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "fcbcbdd4435e",
+      "title": "Senior Design Verification Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4738049005",
+      "postedAt": "2026-09-28T21:15:04.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "45e3486a55ef",
+      "title": "Tech Lead Engineer, Design Verification",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4737856005",
+      "postedAt": "2026-09-28T21:12:00.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "de88d2ddd012",
+      "title": "Mixed Signal IC Layout Engineer",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5227711007",
+      "postedAt": "2026-09-28T19:29:12.000Z",
+      "categories": [
+        "physical",
+        "analog"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "8c68f64c16e1",
+      "title": "Post-Silicon Lab Manager",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5247937007",
+      "postedAt": "2026-09-28T13:19:18.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "130535fba922",
+      "title": "Staff Engineer,Post-Silicon Validation",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5247936007",
+      "postedAt": "2026-09-28T13:18:59.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "22cfc28ae74a",
+      "title": "Principal Analog Mixed-Signal Design Engineer",
+      "company": "Astera Labs",
+      "location": "Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733703005",
+      "postedAt": "2026-09-25T17:16:32.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "bbddf14feb9d",
+      "title": "Physical Design Engineer, Timing",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5246301007",
+      "postedAt": "2026-09-22T20:51:43.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "cea49e6ac191",
+      "title": "Silicon Design Architect",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4735007005",
+      "postedAt": "2026-09-22T09:46:03.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "890eaf86dc9b",
+      "title": "Design Verification Tech Lead- SerDes/PHY IP",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733710005",
+      "postedAt": "2026-09-21T17:11:39.000Z",
+      "categories": [
+        "verification",
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "37f7606ff2c8",
+      "title": "DFT Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4723233005",
+      "postedAt": "2026-09-21T06:18:41.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "ca288c150ac5",
+      "title": "Principal Analog Mixed-Signal Design Engineer",
+      "company": "Astera Labs",
+      "location": "Ho Chi Minh City, Vietnam",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4735377005",
+      "postedAt": "2026-09-18T09:14:58.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "3fe3611e9402",
+      "title": "Senior Manager, Digital Design",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4727604005",
+      "postedAt": "2026-09-17T16:49:52.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "5b11808b5720",
+      "title": "Principal Logic Design Engineer - UALink IP/Subsystem",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4735009005",
+      "postedAt": "2026-09-17T12:31:23.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "ebaa37dfda01",
+      "title": "Lead Logic Design Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4729059005",
+      "postedAt": "2026-09-17T12:29:22.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "d42b37bc3731",
+      "title": "Substrate IC Package Layout Design Engineer",
+      "company": "Etched",
+      "location": "Taipei",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/bf163fe4-1c81-43ce-b129-518c8fbaf46a",
+      "postedAt": "2026-09-17T06:50:41.288Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "45128b113e33",
+      "title": "Midcore Design Verification Engineer",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States; Spain",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5238216007",
+      "postedAt": "2026-09-16T17:40:08.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "00cfd812a8b4",
+      "title": "Senior System Validation Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4734437005",
+      "postedAt": "2026-09-16T07:50:31.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "8aae81f25b0a",
+      "title": "Front End Design Verification Engineer",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States; Spain",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5238208007",
+      "postedAt": "2026-09-15T14:28:12.000Z",
+      "categories": [
+        "design",
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "e7b3438668be",
+      "title": "Principal/ Sr Principal Digital Design Engineer",
+      "company": "Astera Labs",
+      "location": "Taipei, Taiwan",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733794005",
+      "postedAt": "2026-09-14T22:06:23.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "46393487d24f",
+      "title": "Principal/ Sr.Principal Digital Design Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733773005",
+      "postedAt": "2026-09-14T22:05:39.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "5e1bc8649d48",
+      "title": "Manager Design Verification",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4729033005",
+      "postedAt": "2026-09-14T14:20:28.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "b86411f62c6b",
+      "title": "Senior Design Verification Engineer",
+      "company": "Astera Labs",
+      "location": "Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4731808005",
+      "postedAt": "2026-09-11T17:24:40.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "2cbc8bcf1173",
+      "title": "Principal Analog Mixed-Signal Design Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4719589005",
+      "postedAt": "2026-09-11T17:12:17.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "193f4793f788",
+      "title": "Senior STA Engineer",
+      "company": "Astera Labs",
+      "location": "Ahmedabad, Gujarat, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4727003005",
+      "postedAt": "2026-09-11T06:21:20.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "7578ca88132c",
+      "title": "Senior Digital Design Engineer",
+      "company": "Astera Labs",
+      "location": "Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4731809005",
+      "postedAt": "2026-09-10T22:21:14.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "624c96ef0e99",
+      "title": "Physical Design CPU Methodology Engineer",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5210079007",
+      "postedAt": "2026-09-10T18:50:43.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "e659f6f16134",
+      "title": "Lead Logic Design Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4729060005",
+      "postedAt": "2026-09-10T08:35:10.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "02834b96ba60",
+      "title": "Principal Emulation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4730620005",
+      "postedAt": "2026-09-09T18:01:55.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "15a78ff61c0c",
+      "title": "CPU Core Design Verification Manager",
+      "company": "Tenstorrent",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5231981007",
+      "postedAt": "2026-09-08T16:11:08.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "beb37cc336b3",
+      "title": "Silicon Validation Engineer, Software",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/82622c6f-9b8f-44d1-b8fc-2d4634f5abbf",
+      "postedAt": "2026-09-03T06:35:39.271Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "683f0b967f9b",
+      "title": "Formal Verification and RTL Design Software Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4728001005",
+      "postedAt": "2026-08-31T21:19:09.000Z",
+      "categories": [
+        "design",
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "a1e4e7ce3d8a",
+      "title": "PCB Layout Engineer - AI Compute Hardware",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/aefac6b7-6014-4a20-93db-1e0387db1518",
+      "postedAt": "2026-08-28T22:55:45.429Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "d9af5717f2cb",
+      "title": "Principal Design Verification Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4728417005",
+      "postedAt": "2026-08-27T19:35:07.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "f7a5c307d3e0",
+      "title": "Advanced Packaging SI/PI Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/5c3d84b0-0d6a-430b-80b5-f378eb541202",
+      "postedAt": "2026-08-27T16:53:09.840Z",
+      "categories": [
+        "process"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "3e20ff16d1f2",
+      "title": "Substrate IC Package Layout Design Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/4e770111-c9c1-457d-8530-c3dd28971b3a",
+      "postedAt": "2026-08-27T16:50:57.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "7d436967782e",
+      "title": "Staff /Sr Staff Laser Module & Systems Characterization Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5394690008?gh_jid=5394690008",
+      "postedAt": "2026-08-21T17:46:39.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "d82ddaa7fa10",
+      "title": "Senior RTL Design Engineer",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6147624004",
+      "postedAt": "2026-08-20T12:33:42.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "fdfb05856ff6",
+      "title": "Principal RTL Design Engineer",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6147579004",
+      "postedAt": "2026-08-19T20:06:31.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "41b865579a24",
+      "title": "Package Layout Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5382115008?gh_jid=5382115008",
+      "postedAt": "2026-08-19T18:21:04.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "f095789b9507",
+      "title": "Power Integrity Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5382130008?gh_jid=5382130008",
+      "postedAt": "2026-08-19T18:15:22.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "013c55914595",
+      "title": "Director of ASIC Design Verification",
+      "company": "SambaNova",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6145376004",
+      "postedAt": "2026-08-19T17:33:02.000Z",
+      "categories": [
+        "design",
+        "verification"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "6a4f67c9b8b3",
+      "title": "Principal Post-Silicon Validation Engineer",
+      "company": "SambaNova",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6146299004",
+      "postedAt": "2026-08-18T19:27:41.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "b7ee4bf29ea2",
+      "title": "Principal DFT Engineer",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6146129004",
+      "postedAt": "2026-08-18T19:27:16.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "e8c0111a3d8a",
+      "title": "Design Verification Engineer",
+      "company": "SambaNova",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6146139004",
+      "postedAt": "2026-08-18T19:26:58.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "47a75ec13277",
+      "title": "Senior Hardware Design Engineer",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6145573004",
+      "postedAt": "2026-08-18T13:16:56.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "6e698dee052a",
+      "title": "Mixed-Signal Validation Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5386967008?gh_jid=5386967008",
+      "postedAt": "2026-08-17T22:40:53.000Z",
+      "categories": [
+        "analog",
+        "validation"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "3c9ef505fb6a",
+      "title": "System Validation Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4724684005",
+      "postedAt": "2026-08-17T08:43:59.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "c2bab35dd314",
+      "title": "Post-Silicon Validation Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4723493005",
+      "postedAt": "2026-08-17T08:41:47.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "16d405221193",
+      "title": "Physical Design Engineer, AI Accelerator IP",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5198590007",
+      "postedAt": "2026-08-12T15:50:58.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "bc9d073d8add",
+      "title": "CPU Microarchitect, Vector and Matrix Compute",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States; Spain",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5204564007",
+      "postedAt": "2026-08-10T14:35:48.000Z",
+      "categories": [
+        "architecture"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "7359f96bfa4f",
+      "title": "Physical Design Methodology Engineer, AI HW IP",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5198608007",
+      "postedAt": "2026-08-04T22:08:03.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "6f4f1fa0f475",
+      "title": "Principal Hardware Validation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4713208005",
+      "postedAt": "2026-08-04T05:25:17.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "de5ef196fa77",
+      "title": "Staff Photonics Design and Layout Engineer",
+      "company": "Lightmatter",
+      "location": "Boston, MA; Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5374689008?gh_jid=5374689008",
+      "postedAt": "2026-08-03T15:20:39.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "78ca5bd4e459",
+      "title": "Distinguished ASIC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Germany (Onsite)",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4720386005",
+      "postedAt": "2026-08-02T12:44:18.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "8a948e009ad3",
+      "title": "Senior Principal ASIC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Germany (Onsite)",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4720467005",
+      "postedAt": "2026-08-02T12:43:10.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "1ceee0b21460",
+      "title": "Tech Lead ASIC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4719812005",
+      "postedAt": "2026-07-30T15:45:27.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "1af43ff31fd8",
+      "title": "Power Integrity Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/ba35dfd4-168a-46c9-884a-f02570ad8a99",
+      "postedAt": "2026-07-30T06:14:58.694Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "96377556cc88",
+      "title": "Physical Design Engineer - Block Level, Subsystem Implementation",
+      "company": "Etched",
+      "location": "Austin",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/127f9760-3069-4152-b882-4e76b8f4ff1d",
+      "postedAt": "2026-07-30T04:41:07.225Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "2d84f8b730d8",
+      "title": "Sr. Staff Physical Design Engineer",
+      "company": "Lightmatter",
+      "location": "Toronto, ON",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5370437008?gh_jid=5370437008",
+      "postedAt": "2026-07-24T20:05:54.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "25c777eff814",
+      "title": "Sr. Staff Physical Design Engineer",
+      "company": "Lightmatter",
+      "location": "Boston, MA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5370436008?gh_jid=5370436008",
+      "postedAt": "2026-07-24T20:04:47.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "dad20dd073b6",
+      "title": "Physical Design Engineer - Full Chip Implementation",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/045b3672-d7b7-48b5-95e5-3f8793ff819b",
+      "postedAt": "2026-07-23T03:30:06.270Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "8e37bceafdf2",
+      "title": "Physical Design Engineer - Flow & Methodologies",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/d8ee2a43-d5be-47f0-9c89-f7a39bb9db0d",
+      "postedAt": "2026-07-23T03:23:01.486Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "f0e1a0fc8d45",
+      "title": "Physical Design Engineer - Block Level, Subsystem Implementation",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/b03aad0f-6915-414c-a65e-9679df9fb1a0",
+      "postedAt": "2026-07-23T03:17:35.567Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "0b7946e9b78d",
+      "title": "Senior SoC Power Analysis & Optimization Engineer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/75043d8d-78f5-433a-bc29-370e46636bec",
+      "postedAt": "2026-07-22T20:30:08.680Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "874067109c44",
+      "title": "Principal CAD Methodology Engineer, Physical Design",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4692163005",
+      "postedAt": "2026-07-22T18:58:19.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "8afc3153aa25",
+      "title": "Staff Hardware Test & Bring-Up Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5356568008?gh_jid=5356568008",
+      "postedAt": "2026-07-16T23:22:28.000Z",
+      "categories": [
+        "dft",
+        "validation"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "5d72b308dd52",
+      "title": "Principal Emulation Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4715784005",
+      "postedAt": "2026-07-16T11:02:06.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "aeed6133937f",
+      "title": "Staff / Principal ASIC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4715773005",
+      "postedAt": "2026-07-16T09:38:47.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "e9835334249e",
+      "title": "Design Verification Engineer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/fda9468c-ea2c-4d1b-b3d5-f8d3647daf37",
+      "postedAt": "2026-07-15T21:28:45.369Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "1635304d4601",
+      "title": "Analog/Mixed Signal Architect",
+      "company": "Lightmatter",
+      "location": "Boston, MA; Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5295125008?gh_jid=5295125008",
+      "postedAt": "2026-07-14T21:54:24.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "0b31b693e076",
+      "title": "Analog/Mixed Signal Architect",
+      "company": "Lightmatter",
+      "location": "Toronto, ON",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5295127008?gh_jid=5295127008",
+      "postedAt": "2026-07-14T21:51:36.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "db127804ee56",
+      "title": "Photonics Hardware Validation Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5303113008?gh_jid=5303113008",
+      "postedAt": "2026-07-09T14:41:50.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "bbc0cb65dffe",
+      "title": "ASIC Network Architect",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; Remote - US; San Jose, California, United States",
+      "region": "remote",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6110254004",
+      "postedAt": "2026-07-06T22:44:13.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "845e6b3e8ccb",
+      "title": "System Validation Engineer - All Levels (AI Fabric Switches)",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4679263005",
+      "postedAt": "2026-07-06T04:34:17.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "b9c31dc9f65f",
+      "title": "Senior Laser & SOA Characterization Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5287958008?gh_jid=5287958008",
+      "postedAt": "2026-07-02T19:34:12.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "a28db0c250a9",
+      "title": "DFT Engineer",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5175862007",
+      "postedAt": "2026-06-30T21:20:24.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "d65d09c7eaeb",
+      "title": "SoC Design Director",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4706987005",
+      "postedAt": "2026-06-29T04:00:10.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "6a5d10484c60",
+      "title": "Performance Modeling Architect",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5165938007",
+      "postedAt": "2026-06-26T17:41:00.000Z",
+      "categories": [
+        "architecture"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "53abe74ca014",
+      "title": "Sr. Principal Program Manager, ASIC Design",
+      "company": "Astera Labs",
+      "location": "Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4709339005",
+      "postedAt": "2026-06-25T01:07:52.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "4d60a8251661",
+      "title": "Soc Design Verification Director",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703985005",
+      "postedAt": "2026-06-24T12:27:38.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "826bfb71f9ba",
+      "title": "Micro-Architect and RTL Designer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/3bbd6630-3687-458f-9d63-44f73177eb61",
+      "postedAt": "2026-06-15T22:46:53.220Z",
+      "categories": [
+        "design",
+        "architecture"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "632bbf963622",
+      "title": "Formal Verification - DV",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/07b00790-2817-4863-a330-b0caf2322460",
+      "postedAt": "2026-06-10T08:41:47.749Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "a7f25f2183ad",
+      "title": "Hardware Design Engineering, Director - OEM, Silicon Validation Platforms & Rack-Scale Design - Taiwan",
+      "company": "Astera Labs",
+      "location": "Taipei, Taiwan",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4704546005",
+      "postedAt": "2026-06-10T00:48:42.000Z",
+      "categories": [
+        "design",
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "5dc530b01a8d",
+      "title": "Sr. Staff Physical Design Timing Engineer (STA)",
+      "company": "Lightmatter",
+      "location": "Boston, MA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5099034008?gh_jid=5099034008",
+      "postedAt": "2026-06-09T20:12:55.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "49fae09df24d",
+      "title": "Principal DFT Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703793005",
+      "postedAt": "2026-06-08T07:07:32.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "0de2f113ea3f",
+      "title": "Staff DFT Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703792005",
+      "postedAt": "2026-06-08T07:07:07.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "dfdb456bfbca",
+      "title": "Staff Physical Design Engineer - SoC EMIR Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4703779005",
+      "postedAt": "2026-06-07T11:55:28.000Z",
+      "categories": [
+        "design",
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "87faf8f2790f",
+      "title": "Hardware Design Engineering, Senior Director - Signal Connectivity Rack-Scale Platforms",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4702153005",
+      "postedAt": "2026-06-03T23:01:53.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "a266c213b01f",
+      "title": "Physical Design Student",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4701792005",
+      "postedAt": "2026-06-02T17:34:52.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "4e756af6be5a",
+      "title": "Emulation Engineer, Hardware Prototyping (HAPS)",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/bab9e9c5-d0b0-4bac-b784-20a177a6fc3a",
+      "postedAt": "2026-06-01T22:37:15.236Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "737f9daf4a97",
+      "title": "Staff/ Principal Design Verification Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4701334005",
+      "postedAt": "2026-06-01T09:43:59.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "52f93e3c03be",
+      "title": "Senior Design Verification Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4701333005",
+      "postedAt": "2026-06-01T09:43:30.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "199197ac05d5",
+      "title": "System IP RTL Design Lead",
+      "company": "Tenstorrent",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5146176007",
+      "postedAt": "2026-05-27T02:57:59.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "118825225312",
+      "title": "Sr/Staff Engineer, Design Verification,System IP",
+      "company": "Tenstorrent",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5145059007",
+      "postedAt": "2026-05-25T04:51:44.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "058e63ce7fdc",
+      "title": "Sr. Staff Engineer, RTL Physical Implementation Lead",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5145369007",
+      "postedAt": "2026-05-22T17:39:59.000Z",
+      "categories": [
+        "design",
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "859eb967dcc7",
+      "title": "CPU Core Design Verification Testbench Lead",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5138858007",
+      "postedAt": "2026-05-22T11:29:51.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "8525f93c115a",
+      "title": "Principal Physical Design Engineer, STA",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4691422005",
+      "postedAt": "2026-05-20T21:38:52.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "751ea7551f4f",
+      "title": "SOC Micro-Architect and RTL Designer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/33d1567b-9b09-4a78-8287-5b7aa676a725",
+      "postedAt": "2026-05-19T21:58:39.536Z",
+      "categories": [
+        "design",
+        "architecture"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "0e2a4c354bed",
+      "title": "Formal Verification Engineer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/20f2ce61-2e1e-4009-8539-b460344ee018",
+      "postedAt": "2026-05-19T20:24:39.539Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "e4e063439bfe",
+      "title": "Product Engineer, Silicon Validation",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/d2064295-5939-4bca-a6af-5369a11a097e",
+      "postedAt": "2026-05-06T17:52:02.509Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "fe3b11b136a2",
+      "title": "Physical Design Engineer, PnR",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5126996007",
+      "postedAt": "2026-05-04T20:39:44.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "4d8566ee74b9",
+      "title": "Full-Chip Physical Design Verification Engineer",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5126693007",
+      "postedAt": "2026-05-01T21:03:16.000Z",
+      "categories": [
+        "verification",
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "2416870cbaa2",
+      "title": "Physical Design Engineer",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5126178007",
+      "postedAt": "2026-05-01T16:36:16.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "fbd68649b0d2",
+      "title": "ASIC Technical Program Manager",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/bdec1a6d-300b-47fc-a551-3c937d76fee0",
+      "postedAt": "2026-05-01T02:17:28.691Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "4d9560c8a5e2",
+      "title": "Power Validation Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/40365c15-37d2-4266-a042-5a21bfb9212b",
+      "postedAt": "2026-04-30T19:57:50.410Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "517d6940a11f",
+      "title": "Performance Modeling Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/69e75a95-6476-452d-bb41-86ac7ce52a98",
+      "postedAt": "2026-04-21T22:01:17.805Z",
+      "categories": [
+        "architecture"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "61fa3635335a",
+      "title": "Top Level Physical Design Engineer",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5108447007",
+      "postedAt": "2026-04-16T15:02:41.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "e29e2ea2b40a",
+      "title": "Physical Design Engineer",
+      "company": "Etched",
+      "location": "Austin",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/e194099a-b7c0-4aa7-9e6d-06a666de6275",
+      "postedAt": "2026-04-16T02:44:31.906Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "227202e0c1ac",
+      "title": "Design Verification Engineer - SoC",
+      "company": "Etched",
+      "location": "Austin",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/33adf31c-e0ad-4080-bb83-1b3859f95d35",
+      "postedAt": "2026-04-16T02:39:09.866Z",
+      "categories": [
+        "design",
+        "verification"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "fe8966409a59",
+      "title": "Design Verification Engineer - Internal IP",
+      "company": "Etched",
+      "location": "Austin",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/77f0497f-086e-4d89-bbcd-bac7a79bf9a1",
+      "postedAt": "2026-04-16T02:34:19.470Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "2ae28eef2ccd",
+      "title": "Design Verification Engineer - Interface IP",
+      "company": "Etched",
+      "location": "Austin",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/6f4df530-6d67-4df9-903c-645c20e84845",
+      "postedAt": "2026-04-16T02:28:44.778Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "e8181025c073",
+      "title": "Rust SW-Silicon Co-verification Engineer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/54a20839-9e7f-49c2-9f22-198cee29b590",
+      "postedAt": "2026-04-13T22:55:47.649Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "8dca9650a770",
+      "title": "DFT Intern",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/5f1f5739-3b58-467c-b351-ff183c94d96d",
+      "postedAt": "2026-04-13T20:43:36.377Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "512535606b46",
+      "title": "AI/ML Physical Design Flow Engineer",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5098932007",
+      "postedAt": "2026-04-03T18:56:04.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "2c9079f16837",
+      "title": "Silicon Power & Characterization Lead",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5098165007",
+      "postedAt": "2026-04-02T23:10:31.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "c6e0a46e2b6e",
+      "title": "Principal Physical Design Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4679751005",
+      "postedAt": "2026-03-31T18:28:20.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "02001fe39b57",
+      "title": "Staff/ Principal Physical Design STA Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674520005",
+      "postedAt": "2026-03-18T16:58:06.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "3b4735eec988",
+      "title": "Senior/ Staff Package Design Engineer",
+      "company": "Astera Labs",
+      "location": "Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674501005",
+      "postedAt": "2026-03-18T16:56:50.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "8c29f6e26a2c",
+      "title": "Staff/ Principal Chip Top Physical Design  Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674527005",
+      "postedAt": "2026-03-18T16:56:17.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "3ad4f23f895a",
+      "title": "Senior/ Staff Formal Verification Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674496005",
+      "postedAt": "2026-03-18T16:55:17.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "1e7e912a54db",
+      "title": "Senior Principal Digital Design Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, CA",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4672620005",
+      "postedAt": "2026-03-12T19:00:10.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "9280d22c334f",
+      "title": "Principal Digital (mixed-signal) Architect",
+      "company": "Lightmatter",
+      "location": "Toronto, ON",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5146293008?gh_jid=5146293008",
+      "postedAt": "2026-03-06T22:18:03.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "a0c894800748",
+      "title": "IP Design Verification Director",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4670099005",
+      "postedAt": "2026-03-05T21:50:48.000Z",
+      "categories": [
+        "design",
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "7984ed8cb520",
+      "title": "SOC Architect - Chiplet",
+      "company": "Tenstorrent",
+      "location": "Munich, Germany",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5063989007",
+      "postedAt": "2026-03-02T13:45:17.000Z",
+      "categories": [
+        "architecture"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "8dd0201333ad",
+      "title": "Design Verification Engineer, Automotive Robotics",
+      "company": "Tenstorrent",
+      "location": "Munich, Germany",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5064155007",
+      "postedAt": "2026-03-02T13:44:12.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "3b9e45359379",
+      "title": "Emulation Engineer, Automotive Robotics",
+      "company": "Tenstorrent",
+      "location": "Munich, Germany",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5064099007",
+      "postedAt": "2026-03-02T13:43:39.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "d605d8a26503",
+      "title": "DFT Engineer, Automotive Robotics",
+      "company": "Tenstorrent",
+      "location": "Munich, Germany",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5064078007",
+      "postedAt": "2026-02-28T11:45:04.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "9cc1299cb733",
+      "title": "DFT (Design For Test) Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/ca25e600-e2e8-4111-b672-ee3a830a8ecf",
+      "postedAt": "2026-02-28T00:41:40.753Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "6211032f40c7",
+      "title": "Physical Design Engineer: Die-to-Die Interface (RTL to GDSII)",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5062499007",
+      "postedAt": "2026-02-27T00:40:03.000Z",
+      "categories": [
+        "design",
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "6d51aa4ddf01",
+      "title": "STA Physical Design Engineer, Senior Principal",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4663875005",
+      "postedAt": "2026-02-24T01:49:02.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "f6456b22f878",
+      "title": "Distinguished Formal Verification",
+      "company": "Astera Labs",
+      "location": "San Jose, CA",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4664853005",
+      "postedAt": "2026-02-23T18:43:57.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "36388daced8c",
+      "title": "Expert IC Package Design Lead",
+      "company": "Astera Labs",
+      "location": "Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4664075005",
+      "postedAt": "2026-02-22T08:09:38.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "378120e1c632",
+      "title": "Senior Director System Validation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, CA",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4661550005",
+      "postedAt": "2026-02-21T02:02:24.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "fbc2de7fc71e",
+      "title": "Chiplet Physical Design Engineer",
+      "company": "Tenstorrent",
+      "location": "Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5045929007",
+      "postedAt": "2026-02-12T23:33:47.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "41d390d2bbe6",
+      "title": "Hardware Validation Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/ccf2ae62-5490-4a59-87e8-8761f573b22a",
+      "postedAt": "2026-02-03T00:57:02.739Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "2e04263ce3ba",
+      "title": "Senior Emulation Engineer",
+      "company": "Astera Labs",
+      "location": "Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4649850005",
+      "postedAt": "2026-01-16T00:52:32.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "23ca363029df",
+      "title": "Senior/ Staff Physical Design Engineer",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4649866005",
+      "postedAt": "2026-01-16T00:49:44.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "e50ab581d1c3",
+      "title": "Senior ASIC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4649872005",
+      "postedAt": "2026-01-16T00:43:19.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "3bda1d7a5c06",
+      "title": "DFT Engineer",
+      "company": "Astera Labs",
+      "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4649842005",
+      "postedAt": "2026-01-15T23:57:49.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "387a888ad2ed",
+      "title": "Sr. Staff Physical Design Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5057578008?gh_jid=5057578008",
+      "postedAt": "2026-01-07T02:15:51.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "808ffe882f7a",
+      "title": "Principal Digital Design Engineer (AI Fabric)",
+      "company": "Astera Labs",
+      "location": "San Jose, CA",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4645005005",
+      "postedAt": "2025-12-30T22:30:53.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "95c1f0345cc1",
+      "title": "Principal Silicon Validation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4613831005",
+      "postedAt": "2025-12-23T18:03:15.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "40452c3e14d2",
+      "title": "Principal ATE Test Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4637712005",
+      "postedAt": "2025-12-19T19:25:25.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "8d99f513765d",
+      "title": "Staff/Sr. Staff Design Verification",
+      "company": "Lightmatter",
+      "location": "Boston, MA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5026019008?gh_jid=5026019008",
+      "postedAt": "2025-12-09T21:57:20.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "2b9afd5b432a",
+      "title": "Staff/Sr. Staff Design Verification",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5026014008?gh_jid=5026014008",
+      "postedAt": "2025-12-09T21:55:45.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "4287967a89bb",
+      "title": "Principal Digital (mixed-signal) Architect",
+      "company": "Lightmatter",
+      "location": "Boston, MA; Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5020803008?gh_jid=5020803008",
+      "postedAt": "2025-12-05T19:24:28.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "2f0a86c916f2",
+      "title": "Staff/Sr. Staff Design Verification Engineer",
+      "company": "Lightmatter",
+      "location": "Toronto, ON",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/4973182008?gh_jid=4973182008",
+      "postedAt": "2025-11-05T01:23:06.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "eec82c74019f",
+      "title": "Sr. Staff Physical Design Timing Engineer (STA)",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/4971294008?gh_jid=4971294008",
+      "postedAt": "2025-11-04T00:28:17.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "4d0d0809ef12",
+      "title": "Sr. Staff Physical Design Timing Engineer (STA)",
+      "company": "Lightmatter",
+      "location": "Toronto, ON",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/4971293008?gh_jid=4971293008",
+      "postedAt": "2025-11-04T00:28:16.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "495a0aaec277",
+      "title": "Post-Silicon Validation Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/9a3eed83-b5b2-4ac4-a2d4-9dc9dd734869",
+      "postedAt": "2025-10-13T19:43:57.492Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "bc64b0e708f3",
+      "title": "Design Verification Engineer - Interface IP",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/d88da917-21f5-42b7-b1e2-8986897aaab1",
+      "postedAt": "2025-09-11T18:49:28.530Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "13917f8fddb1",
+      "title": "Design Verification Engineer - SoC",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/a99318bd-b433-44b7-9600-2ee9533c90a1",
+      "postedAt": "2025-09-11T18:44:02.970Z",
+      "categories": [
+        "design",
+        "verification"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "57d98f281530",
+      "title": "Principal Emulation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, CA",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4600077005",
+      "postedAt": "2025-09-09T23:59:51.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "1019e81b9a8a",
+      "title": "System Validation Engineer - Haifa",
+      "company": "Astera Labs",
+      "location": "Haifa District, Israel",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4602995005",
+      "postedAt": "2025-08-29T01:25:30.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "9370bbf36b47",
+      "title": "Senior SoC Verification/Validation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, CA",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4588342005",
+      "postedAt": "2025-08-20T17:47:33.000Z",
+      "categories": [
+        "design",
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "5cd1fd3557bf",
+      "title": "Physical Design Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/92862cf4-3fe6-4317-b771-8fcdf0a95758",
+      "postedAt": "2025-08-11T00:21:16.592Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "a9751130538d",
+      "title": "ASIC Architect",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/d1d009f0-f0c7-4ab6-9f27-881c3ea12505",
+      "postedAt": "2025-08-05T05:32:15.214Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "2d7f0d4834e1",
+      "title": "Principal CPU Microarchitect - RISC-V & AI Compute",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States; Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4796552007",
+      "postedAt": "2025-07-28T17:13:11.000Z",
+      "categories": [
+        "architecture"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "8bc75b7997a1",
+      "title": "Physical Design Engineer - STA",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4780846007",
+      "postedAt": "2025-07-09T20:11:19.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "d10beb74879b",
+      "title": "PCB Layout Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/ed7a1d2e-df45-4d35-8965-e989fbbc2ce9",
+      "postedAt": "2025-06-11T05:20:14.801Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "1d71a6ce37c6",
+      "title": "RTL Design Engineer",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/c3ca158a-015d-413d-bd14-5470e546ed15",
+      "postedAt": "2025-06-11T05:18:50.678Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "1c7efd98d0b1",
+      "title": "Design Verification Engineer - Internal IP",
+      "company": "Etched",
+      "location": "San Jose",
+      "region": "global",
+      "url": "https://jobs.ashbyhq.com/Etched/7aeafe31-c2c6-43e0-bb31-01868dcfad39",
+      "postedAt": "2025-06-11T05:03:53.978Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:etched"
+    },
+    {
+      "id": "aaa2fbb1cd7a",
+      "title": "Analog IC Design Engineer, High-Speed",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/4418732008?gh_jid=4418732008",
+      "postedAt": "2025-04-29T14:59:36.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "6ad2cac5b24d",
+      "title": "Analog IC Design Engineer, High-Speed",
+      "company": "Lightmatter",
+      "location": "Toronto, ON",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/4418733008?gh_jid=4418733008",
+      "postedAt": "2025-03-24T20:09:38.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "238db8a28291",
+      "title": "Design Verification Lead, AI Hardware",
+      "company": "Tenstorrent",
+      "location": "Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4659518007",
+      "postedAt": "2025-02-24T20:46:26.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "5393db5cfdba",
+      "title": "Verification Engineer",
+      "company": "Tenstorrent",
+      "location": "Japan",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4653985007",
+      "postedAt": "2025-02-18T23:42:08.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "6639ae066e93",
+      "title": "Silicon Design-for-Test (DFT) Engineer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/ff6ae508-4c0e-4e36-9471-b2592eac8370",
+      "postedAt": "2024-12-19T23:27:30.539Z",
+      "categories": [
+        "design",
+        "dft"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "a7f3423361e0",
+      "title": "Senior DFT Engineer, Architecture",
+      "company": "Tenstorrent",
+      "location": "Tokyo, Japan",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4556198007",
+      "postedAt": "2024-11-05T23:19:37.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "6c72fafc946c",
+      "title": "Sr Staff Engineer, SoC RTL Design",
+      "company": "Tenstorrent",
+      "location": "Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4553078007",
+      "postedAt": "2024-10-30T13:39:17.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "a16da37e8462",
+      "title": "AI Silicon Architect",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/4e817794-fd95-433c-8ae5-ae1e03fb5eda",
+      "postedAt": "2024-05-09T15:41:24.932Z",
+      "categories": [
+        "architecture"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "e4f8aa8c7144",
+      "title": "ASIC/SOC CAD Engineer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/54fa5fa8-415e-4b7e-948a-4149d9b5f3bd",
+      "postedAt": "2024-03-12T23:43:59.689Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "fea70c74799b",
+      "title": "ASIC/SOC Silicon Physical Design Engineer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/13b49fe9-aa5b-4270-aaf0-e3d0091a9615",
+      "postedAt": "2024-02-16T18:03:23.055Z",
+      "categories": [
+        "design",
+        "physical"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "3264bc7c23c6",
+      "title": "SoC Design Verification Engineer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/a8f5e7ab-6938-43f4-ae56-d0a4d316f53c",
+      "postedAt": "2024-02-16T17:47:37.037Z",
+      "categories": [
+        "design",
+        "verification"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "a6d11a94f63c",
+      "title": "Staff Design Verification Engineer, AI HW",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Belgrade, Serbia; Toronto, Ontario, Canada; Zürich, Switzerland",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4118635007",
+      "postedAt": "2023-10-25T19:42:24.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    }
+  ]
 }
