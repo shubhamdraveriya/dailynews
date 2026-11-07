@@ -1,0 +1,42 @@
+{
+  "$comment": "Sources used by scripts/update-feeds.mjs. Add or remove entries freely; a source that fails is logged and skipped (its previous items are kept).",
+  "news": {
+    "googleNews": [
+      { "label": "VLSI", "query": "VLSI OR \"chip design\" OR \"RTL design\"" },
+      { "label": "India semiconductors", "query": "India semiconductor OR \"India Semiconductor Mission\"" },
+      { "label": "Fabs & foundry", "query": "semiconductor fab OR foundry OR TSMC OR \"Intel Foundry\"" },
+      { "label": "EDA", "query": "Synopsys OR Cadence OR \"Siemens EDA\" chip" },
+      { "label": "Packaging & memory", "query": "\"advanced packaging\" OR chiplet OR HBM semiconductor" },
+      { "label": "AI silicon", "query": "\"AI chip\" OR \"AI accelerator\" OR \"custom silicon\"" }
+    ],
+    "rss": [
+      { "name": "SemiEngineering", "url": "https://semiengineering.com/feed/" },
+      { "name": "SemiWiki", "url": "https://semiwiki.com/feed/" },
+      { "name": "EE Times", "url": "https://www.eetimes.com/feed/" },
+      { "name": "Electronics Weekly", "url": "https://www.electronicsweekly.com/feed/" },
+      { "name": "EE News Europe", "url": "https://www.eenewseurope.com/en/feed/" }
+    ]
+  },
+  "jobs": {
+    "greenhouse": [
+      { "company": "Cerebras", "token": "cerebrassystems" },
+      { "company": "Groq", "token": "groq" },
+      { "company": "SambaNova", "token": "sambanovasystems" },
+      { "company": "Tenstorrent", "token": "tenstorrent" },
+      { "company": "Lightmatter", "token": "lightmatter" },
+      { "company": "Ayar Labs", "token": "ayarlabs" },
+      { "company": "Astera Labs", "token": "asteralabs" },
+      { "company": "SiFive", "token": "sifive" },
+      { "company": "d-Matrix", "token": "dmatrix" },
+      { "company": "Axelera AI", "token": "axeleraai" }
+    ],
+    "lever": [
+      { "company": "Ampere", "token": "amperecomputing" }
+    ],
+    "ashby": [
+      { "company": "Etched", "token": "etched" },
+      { "company": "MatX", "token": "matx" }
+    ],
+    "remotive": ["verilog", "fpga", "asic", "semiconductor"]
+  }
+}

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Example Semi Feed</title>
+  <atom:link href="https://example.com/feed/" rel="self" type="application/rss+xml" />
+  <item>
+    <title><![CDATA[TSMC ramps 2nm &amp; plans new fab]]></title>
+    <link>https://example.com/tsmc-2nm</link>
+    <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
+    <description><![CDATA[<p>The foundry said its <strong>N2</strong> process is in volume production.</p>]]></description>
+  </item>
+  <item>
+    <title>Verification flows for RISC-V cores</title>
+    <link>https://example.com/riscv-verification</link>
+    <pubDate>Wed, 04 Nov 2026 08:30:00 GMT</pubDate>
+    <description>UVM &#38; formal tips &#x2014; part 2</description>
+  </item>
+  <item>
+    <title>Item without link is ignored</title>
+  </item>
+</channel>
+</rss>

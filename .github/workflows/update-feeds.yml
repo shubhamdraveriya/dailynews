@@ -1,0 +1,57 @@
+name: Update news & jobs
+
+on:
+  schedule:
+    # Every 3 hours (UTC), offset from the top of the hour to avoid queue spikes.
+    - cron: "17 */3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [gh-pages]
+    paths:
+      - "scripts/**"
+      - "assets/topics.js"
+      - ".github/workflows/update-feeds.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Test feed parsers
+        run: npm test
+
+      - name: Fetch latest news and jobs
+        shell: bash
+        run: |
+          node scripts/update-feeds.mjs | tee feed-report.txt
+          { echo '```'; cat feed-report.txt; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          rm feed-report.txt
+
+      - name: Commit updated data
+        run: |
+          if git diff --quiet -- data/; then
+            echo "No changes to data/."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898299+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "chore(data): refresh news and jobs"
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((i * 5))
+          done
+          exit 1

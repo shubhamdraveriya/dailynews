@@ -1,0 +1,15 @@
+{
+  "name": "vlsi-pulse",
+  "version": "2.0.0",
+  "private": true,
+  "description": "VLSI Pulse: semiconductor news and chip-design jobs, refreshed automatically.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "update": "node scripts/update-feeds.mjs",
+    "test": "node --test scripts/test/*.test.mjs",
+    "serve": "python3 -m http.server 8080"
+  }
+}

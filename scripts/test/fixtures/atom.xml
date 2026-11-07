@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Atom Feed</title>
+  <link href="https://example.org/" rel="alternate"/>
+  <entry>
+    <title type="html">HBM4 and chiplets reshape packaging</title>
+    <link rel="replies" href="https://example.org/hbm4#comments"/>
+    <link rel="alternate" href="https://example.org/hbm4"/>
+    <id>tag:example.org,2026:hbm4</id>
+    <updated>2026-11-06T12:00:00Z</updated>
+    <summary>Advanced packaging demand keeps growing.</summary>
+  </entry>
+</feed>
