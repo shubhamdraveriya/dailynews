@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T06:12:45.343Z",
-  "count": 236,
+  "generatedAt": "2026-11-08T13:35:52.671Z",
+  "count": 235,
   "items": [
     {
       "id": "25656e5bff0b",
@@ -2345,19 +2345,6 @@
       "region": "global",
       "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674520005",
       "postedAt": "2026-03-18T16:58:06.000Z",
-      "categories": [
-        "physical"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "3b4735eec988",
-      "title": "Senior/ Staff Package Design Engineer",
-      "company": "Astera Labs",
-      "location": "Israel",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4674501005",
-      "postedAt": "2026-03-18T16:56:50.000Z",
       "categories": [
         "physical"
       ],
