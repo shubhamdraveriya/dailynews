@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-07T07:24:05.251Z",
-  "count": 235,
+  "generatedAt": "2026-11-08T06:12:45.343Z",
+  "count": 236,
   "items": [
+    {
+      "id": "25656e5bff0b",
+      "title": "Principal Design Verification Engineer (AI Fabric Switches)",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4752444005",
+      "postedAt": "2026-11-08T01:36:24.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
     {
       "id": "d03260aa7843",
       "title": "Sr/Staff Digital Design Engineer",
