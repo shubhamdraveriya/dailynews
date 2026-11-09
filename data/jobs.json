@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T13:35:52.671Z",
-  "count": 235,
+  "generatedAt": "2026-11-09T22:27:31.986Z",
+  "count": 233,
   "items": [
     {
       "id": "25656e5bff0b",
@@ -66,19 +66,6 @@
         "physical"
       ],
       "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "01206e159be0",
-      "title": "Physical Design Engineer, ML4PD",
-      "company": "Tenstorrent",
-      "location": "Austin, Texas, United States",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5270485007",
-      "postedAt": "2026-11-06T22:48:36.000Z",
-      "categories": [
-        "physical"
-      ],
-      "sourceKey": "greenhouse:tenstorrent"
     },
     {
       "id": "21d52bb4add6",
@@ -1221,19 +1208,6 @@
         "verification"
       ],
       "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "a1e4e7ce3d8a",
-      "title": "PCB Layout Engineer - AI Compute Hardware",
-      "company": "MatX",
-      "location": "Mountain View (HQ) or Remote · Remote",
-      "region": "remote",
-      "url": "https://jobs.ashbyhq.com/matx/aefac6b7-6014-4a20-93db-1e0387db1518",
-      "postedAt": "2026-08-28T22:55:45.429Z",
-      "categories": [
-        "physical"
-      ],
-      "sourceKey": "ashby:matx"
     },
     {
       "id": "d9af5717f2cb",
