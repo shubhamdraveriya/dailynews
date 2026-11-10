@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-09T22:27:31.986Z",
-  "count": 233,
+  "generatedAt": "2026-11-10T07:26:33.733Z",
+  "count": 230,
   "items": [
     {
       "id": "25656e5bff0b",
@@ -764,19 +764,6 @@
       "sourceKey": "greenhouse:asteralabs"
     },
     {
-      "id": "4aa2a286002d",
-      "title": "Principal Logic Design Engineer",
-      "company": "Astera Labs",
-      "location": "Bengaluru, Karnataka, India",
-      "region": "india",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4735008005",
-      "postedAt": "2026-09-30T06:27:58.000Z",
-      "categories": [
-        "design"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
       "id": "a3a888cd731c",
       "title": "Technical Program Manager SOC & Digital Design",
       "company": "Tenstorrent",
@@ -987,8 +974,8 @@
       "sourceKey": "greenhouse:asteralabs"
     },
     {
-      "id": "d42b37bc3731",
-      "title": "Substrate IC Package Layout Design Engineer",
+      "id": "f81ae1a3dc71",
+      "title": "Substrate IC Package Layout Design Engineer (Taiwan)",
       "company": "Etched",
       "location": "Taipei",
       "region": "global",
@@ -1142,19 +1129,6 @@
         "physical"
       ],
       "sourceKey": "greenhouse:tenstorrent"
-    },
-    {
-      "id": "e659f6f16134",
-      "title": "Lead Logic Design Engineer",
-      "company": "Astera Labs",
-      "location": "Bengaluru, Karnataka, India",
-      "region": "india",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4729060005",
-      "postedAt": "2026-09-10T08:35:10.000Z",
-      "categories": [
-        "design"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
     },
     {
       "id": "02834b96ba60",
@@ -2768,19 +2742,6 @@
         "verification"
       ],
       "sourceKey": "ashby:etched"
-    },
-    {
-      "id": "57d98f281530",
-      "title": "Principal Emulation Engineer",
-      "company": "Astera Labs",
-      "location": "San Jose, CA",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4600077005",
-      "postedAt": "2025-09-09T23:59:51.000Z",
-      "categories": [
-        "verification"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
     },
     {
       "id": "1019e81b9a8a",
