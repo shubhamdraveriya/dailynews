@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T07:26:33.733Z",
-  "count": 230,
+  "generatedAt": "2026-11-10T17:06:36.710Z",
+  "count": 229,
   "items": [
     {
       "id": "25656e5bff0b",
@@ -1479,19 +1479,6 @@
       "region": "global",
       "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4720467005",
       "postedAt": "2026-08-02T12:43:10.000Z",
-      "categories": [
-        "design"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "1ceee0b21460",
-      "title": "Tech Lead ASIC Design Engineer",
-      "company": "Astera Labs",
-      "location": "Bengaluru, Karnataka, India",
-      "region": "india",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4719812005",
-      "postedAt": "2026-07-30T15:45:27.000Z",
       "categories": [
         "design"
       ],
