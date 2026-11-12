@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T00:48:33.422Z",
-  "count": 230,
+  "generatedAt": "2026-11-12T11:25:27.489Z",
+  "count": 229,
   "items": [
     {
       "id": "cc1ab9533a9d",
@@ -2702,19 +2702,6 @@
         "physical"
       ],
       "sourceKey": "greenhouse:lightmatter"
-    },
-    {
-      "id": "495a0aaec277",
-      "title": "Post-Silicon Validation Engineer",
-      "company": "Etched",
-      "location": "San Jose",
-      "region": "global",
-      "url": "https://jobs.ashbyhq.com/Etched/9a3eed83-b5b2-4ac4-a2d4-9dc9dd734869",
-      "postedAt": "2025-10-13T19:43:57.492Z",
-      "categories": [
-        "validation"
-      ],
-      "sourceKey": "ashby:etched"
     },
     {
       "id": "bc64b0e708f3",
