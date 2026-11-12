@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-11-10T17:06:36.710Z",
-  "count": 229,
+  "generatedAt": "2026-11-12T00:48:33.422Z",
+  "count": 230,
   "items": [
+    {
+      "id": "cc1ab9533a9d",
+      "title": "Sr. Physical Design Flow & Methodology Engineer",
+      "company": "Lightmatter",
+      "location": "Boston, MA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5477588008?gh_jid=5477588008",
+      "postedAt": "2026-11-12T00:37:26.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "35d94493cb63",
+      "title": "Emulation Engineer",
+      "company": "MatX",
+      "location": "Israel · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/267e3a2b-2bf0-43c0-b81a-088e7e6e4b06",
+      "postedAt": "2026-11-11T19:08:46.791Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:matx"
+    },
     {
       "id": "25656e5bff0b",
       "title": "Principal Design Verification Engineer (AI Fabric Switches)",
@@ -131,6 +157,19 @@
         "design"
       ],
       "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "e7db4c7f8fe1",
+      "title": "Design Verification Engineer",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/8abaab55-daa7-49c6-af53-5856f033cd22",
+      "postedAt": "2026-11-03T21:11:21.069Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "ashby:matx"
     },
     {
       "id": "010f2defd905",
@@ -2325,19 +2364,6 @@
       "sourceKey": "greenhouse:asteralabs"
     },
     {
-      "id": "9280d22c334f",
-      "title": "Principal Digital (mixed-signal) Architect",
-      "company": "Lightmatter",
-      "location": "Toronto, ON",
-      "region": "global",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5146293008?gh_jid=5146293008",
-      "postedAt": "2026-03-06T22:18:03.000Z",
-      "categories": [
-        "analog"
-      ],
-      "sourceKey": "greenhouse:lightmatter"
-    },
-    {
       "id": "a0c894800748",
       "title": "IP Design Verification Director",
       "company": "Astera Labs",
@@ -2635,19 +2661,6 @@
       "postedAt": "2025-12-09T21:55:45.000Z",
       "categories": [
         "verification"
-      ],
-      "sourceKey": "greenhouse:lightmatter"
-    },
-    {
-      "id": "4287967a89bb",
-      "title": "Principal Digital (mixed-signal) Architect",
-      "company": "Lightmatter",
-      "location": "Boston, MA; Mountain View, CA",
-      "region": "global",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5020803008?gh_jid=5020803008",
-      "postedAt": "2025-12-05T19:24:28.000Z",
-      "categories": [
-        "analog"
       ],
       "sourceKey": "greenhouse:lightmatter"
     },
