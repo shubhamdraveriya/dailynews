@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T01:53:42.902Z",
-  "count": 228,
+  "generatedAt": "2026-11-13T11:09:02.747Z",
+  "count": 229,
   "items": [
     {
       "id": "cc1ab9533a9d",
@@ -2921,6 +2921,19 @@
       "region": "global",
       "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4553078007",
       "postedAt": "2024-10-30T13:39:17.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "7440b83bdefc",
+      "title": "Sr. Staff Engineer, RTL - Tensix",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4361751007",
+      "postedAt": "2024-06-04T18:31:30.000Z",
       "categories": [
         "design"
       ],
