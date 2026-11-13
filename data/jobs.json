@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T20:01:44.680Z",
+  "generatedAt": "2026-11-13T01:53:42.902Z",
   "count": 228,
   "items": [
     {
@@ -1052,6 +1052,19 @@
       "sourceKey": "greenhouse:asteralabs"
     },
     {
+      "id": "c9b5ab5b36d1",
+      "title": "Principal DFT Engineer",
+      "company": "Astera Labs",
+      "location": "Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4731807005",
+      "postedAt": "2026-09-15T17:32:48.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
       "id": "8aae81f25b0a",
       "title": "Front End Design Verification Engineer",
       "company": "Tenstorrent",
@@ -1470,19 +1483,6 @@
         "physical"
       ],
       "sourceKey": "greenhouse:tenstorrent"
-    },
-    {
-      "id": "6f4f1fa0f475",
-      "title": "Principal Hardware Validation Engineer",
-      "company": "Astera Labs",
-      "location": "San Jose, California, United States",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4713208005",
-      "postedAt": "2026-08-04T05:25:17.000Z",
-      "categories": [
-        "validation"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
     },
     {
       "id": "de5ef196fa77",
