@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-13T11:09:02.747Z",
-  "count": 229,
+  "generatedAt": "2026-11-13T19:49:17.383Z",
+  "count": 231,
   "items": [
+    {
+      "id": "3d6b9587c00d",
+      "title": "Physical Design, Intern (Summer 2027)",
+      "company": "Lightmatter",
+      "location": "Boston, MA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008",
+      "postedAt": "2026-11-13T17:18:06.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
     {
       "id": "cc1ab9533a9d",
       "title": "Sr. Physical Design Flow & Methodology Engineer",
@@ -882,8 +895,8 @@
       "sourceKey": "greenhouse:tenstorrent"
     },
     {
-      "id": "130535fba922",
-      "title": "Staff Engineer,Post-Silicon Validation",
+      "id": "3846436c05f2",
+      "title": "Staff Engineer, Post-Silicon Validation",
       "company": "Tenstorrent",
       "location": "Austin, Texas, United States; Santa Clara, California, United States",
       "region": "global",
@@ -1103,6 +1116,19 @@
         "design"
       ],
       "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "34719f1b465c",
+      "title": "Principal RTL Design Engineer, IO & Memory Systems",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6173852004",
+      "postedAt": "2026-09-14T21:41:32.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
     },
     {
       "id": "5e1bc8649d48",
@@ -2927,15 +2953,15 @@
       "sourceKey": "greenhouse:tenstorrent"
     },
     {
-      "id": "7440b83bdefc",
-      "title": "Sr. Staff Engineer, RTL - Tensix",
+      "id": "231dfc6ec506",
+      "title": "AI Accelerator Architect",
       "company": "Tenstorrent",
       "location": "Austin, Texas, United States; Toronto, Ontario, Canada",
       "region": "global",
       "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/4361751007",
       "postedAt": "2024-06-04T18:31:30.000Z",
       "categories": [
-        "design"
+        "architecture"
       ],
       "sourceKey": "greenhouse:tenstorrent"
     },
