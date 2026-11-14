@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-13T19:49:17.383Z",
+  "generatedAt": "2026-11-14T01:28:43.513Z",
   "count": 231,
   "items": [
+    {
+      "id": "0ceef68add5a",
+      "title": "Hardware Test Engineering, Intern (Summer 2027)",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008",
+      "postedAt": "2026-11-13T21:29:35.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
     {
       "id": "3d6b9587c00d",
       "title": "Physical Design, Intern (Summer 2027)",
@@ -1099,19 +1112,6 @@
       "region": "global",
       "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733794005",
       "postedAt": "2026-09-14T22:06:23.000Z",
-      "categories": [
-        "design"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "46393487d24f",
-      "title": "Principal/ Sr.Principal Digital Design Engineer",
-      "company": "Astera Labs",
-      "location": "San Jose, California, United States",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733773005",
-      "postedAt": "2026-09-14T22:05:39.000Z",
       "categories": [
         "design"
       ],

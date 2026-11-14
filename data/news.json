@@ -1,7 +1,123 @@
 {
-  "generatedAt": "2026-11-13T19:49:17.383Z",
+  "generatedAt": "2026-11-14T01:28:43.513Z",
   "count": 240,
   "items": [
+    {
+      "id": "72834bc38468",
+      "title": "University of Arizona opens semiconductor talent hub in downtown Tucson",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWFJDSGRvd3o3Z2Z5ZnV6WTBLMzFMS3dzVU5zUXNOdjNzTnNNMHRXeHBjVTl1ZXBGRVdvTFp6ZnlSeG1JbThOQjVzcVE4RnhJNjFoR1ZIbkJRTWN5WFVFMHBtUXNranpHRmZ2QW5xb01kTnNfQzlRUEd6SXR2QlN4WlR3QjR6MVFCU3FTSlNvLV9USkdGSERRRG5iRXJqWGfSAbMBQVVfeXFMTk1hWHc3WVI4MGsxam1HS2pDbXFZeDlwTTl0OE45MXpQTjFjbk5Fa0F4eWVWa3R4d1dpR1M4UVl1Z3cyLWRSUnhnbXN3T1J2VEVEZXNfcXY3ZTRtQk1tT282dklfYk1RT0t2Z3pBRktEYlFKZ25FUFMxdXROTHJjbVI1aHgwWThFRlhWY1doMVRHT0FmdXd2NktSTkhreks1bUVubngtZkJBcmE5NG1SV3ZRNHc?oc=5",
+      "source": "KOLD",
+      "publishedAt": "2026-11-14T00:42:00.000Z",
+      "summary": "",
+      "topics": []
+    },
+    {
+      "id": "8100f05f3c71",
+      "title": "Samsung to produce DeepX’s next-generation AI chip",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRDlOeFcyMXlTWVFzV2pDOEhzY1ZUaU1WZXQ2WnJBSGRiLXlBdTNCNFpocHI2MjFWOHB0b2pCaGQ5Q3RmNE9LX2ZCdUw5eFNnYlJ2eERvSXpxd3dNbWZ0amkzdFJkckpYZG1McjNORGs1cWFsZXZRUjNqVDBwVDhqOUtVaw?oc=5",
+      "source": "Tech in Asia",
+      "publishedAt": "2026-11-14T00:37:00.000Z",
+      "summary": "",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "767a5d9444aa",
+      "title": "How TSMC’s employee data leak raises questions over cloud security",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE16akhUSTBjXzd0V20zM3lzQzNWaG5YenRaQmhFTWJ1d0J3Nmd2X1JFUjVPRXZUc29YenY1RjhVSU5kRThpLTJ5RzlxQ1c5Y01MWVhrZV9fcTYwUQ?oc=5",
+      "source": "Cryptonews.net",
+      "publishedAt": "2026-11-13T23:46:58.000Z",
+      "summary": "",
+      "topics": [
+        "manufacturing",
+        "policy"
+      ]
+    },
+    {
+      "id": "1e66e6e7a823",
+      "title": "Researchers Link Semiconductor Electron Spin to Heat Vibrations in Scientific First",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVd4NjFwRXRtcjMwSVBZZjFoQTN1dk5aeXpNRTcwWWc1TDMyaXFqaDRQdERMdGV1dHA1YURaNm84VlNqejZYUmNoM1RWa1BfOGpia1JOc0dvV2doMVdpWWVoTUJPbk5ZX0RodUZkNGFibWJMTWYtWnROaTItVlBtRnc1eEJqMm1UTElYMjBCWERpMzdRWHRFUHFDTlBNSk95RXotQzNELWVlZFBh?oc=5",
+      "source": "Bioengineer.org",
+      "publishedAt": "2026-11-13T23:03:21.000Z",
+      "summary": "",
+      "topics": []
+    },
+    {
+      "id": "a043883481d3",
+      "title": "$1000 Invested In Taiwan Semiconductor 5 Years Ago Would Be Worth This Much Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaEZXU19lUTRSMTBSWmhmNjh3c2JvSHBkZENicDhXVm5VS3U0TjlRTjA3OTJBdjRqaURFaGdrUjBsVERmaUVMZlN0WWFEdmh2LTNpb19CRmRKSUdmLXpMVFNrTUNTcjBtOFNNV3VmZkhhaldaQTRPaHVSbFE1ZnRFdWdnb3BUMW5jdkFPRmZWVl9YaW9HUWNSaElhUTlqU1ZoLUNNQWczd0ExRVVKb1lNUDQzOG5YNDJX?oc=5",
+      "source": "Benzinga",
+      "publishedAt": "2026-11-13T23:00:15.000Z",
+      "summary": "",
+      "topics": []
+    },
+    {
+      "id": "b6a17ff9dce0",
+      "title": "Shifting HBM4 Controller Functions Closer To Memory (UC Riverside)",
+      "url": "https://semiengineering.com/shifting-hbm4-controller-functions-closer-to-memory-uc-riverside/",
+      "source": "SemiEngineering",
+      "publishedAt": "2026-11-13T21:53:30.000Z",
+      "summary": "Tharunya Yogananda and Wantong Li of the University of California, Riverside published a technical paper titled “Beyond Host-Side Control: HBM Controller Partitioning Across Host and HBM Base Dies.” Abstract Excerpt…",
+      "topics": [
+        "packaging"
+      ]
+    },
+    {
+      "id": "14681200863f",
+      "title": "Malaysia and Singapore step up Nvidia AI chip probes as charges brought against Chinese national over 917 smuggled servers — firm at center of Jensen Huang controversy announces inventory audit to account for all restricted GPUs",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNLVRQRDJjLUYybzVveW5wWEV2cU9ka3VhQXpvV3dWN00yNS11bzBnb0VDOTNENTVFdjh0ZkdMVDF4bjYxTTFZM0s4YmlsMHFyNUZjREFSRTN2Vi1QVk9mMjNqQ3JpY2hKWGRLUFNFR3ljWl91LWQ3dXhmQlNjdnR1WkMteHV2RklKek9UMElmLWVMa3NPU21yUnJ3akNvVDFBQ05fbW1EMVVOMzloYk5YZnU4di1SZ2VlVWkzOE1iUDVJM3R1OVFfb0E3bXpBLWJiY1pDekhXWUtScUplMU9TYVRSYkxYcmRmNmJTeTdKZ2RsU3NlM3pTalVXLWdwMlU5TmZDc0EwaS1wN3E2ZThQWEtjWDRteGRWZktZNDBIbDN4XzhJckg5akw0NXJHU1hxbUpfenhPVEpQQVFDTEZjOFg4d1VTbmNXSzVsZnZQQ01NTjZsamZDb0F0dE1HaDVQRDRONDRhQzRrOXNhbVFHOHJ3YUNHbEl3TVdkamVvNTRMcnFlVXV6LXBOcmNBaWtEeFBtRkRuNWNjZ1VxWUczdFUxTQ?oc=5",
+      "source": "Tom's Hardware",
+      "publishedAt": "2026-11-13T21:45:29.000Z",
+      "summary": "",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "42959c6679d3",
+      "title": "Alice Huang’s AI Chip Network Unveiled as Nvidia Drama Unfolds Further",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUMwZDFjbzlWdkduTE5EZW01SWd0M2RnQmVMb0FLZkZXX3BlQlZUZFZWWGdLV0lvSVF1QlhJNWJVT2dxWHYzazNrcjNZdXFPRnVxdG1GRHVvSlFOQ09NdW9pc1JSbU5nMzRZN3FZSTJVU1pPdmU4cjVKOUZ4cThEVkJCNjZIYzlrei1nVFFvNlFRX3BCbWt0WV9fLUFsNmc4S3MtZFk5UllVaG14cE9qY0pwZVhxbm1pa043MUJaOVZEZw?oc=5",
+      "source": "Bloomberg.com",
+      "publishedAt": "2026-11-13T21:21:18.000Z",
+      "summary": "",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "436b5ac01fb7",
+      "title": "In Malta, new chips, new jobs: fab construction starts",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeGI1aU1UWGdEWHVrc25LLTgtNU84eUVmdGhKeEtkeWw0cnNUTXJ1aGV4OEpPTmdCeTE3N3Z1SUh0QlNjYTMzVzBlMGV5bDJPSHc5MEgyUGJ5M3E2U29senl4dHJKTVBvOGIxejA4dFctTnMtbHlhZjNCaXFsRUh5dTB6Wjg5REFxMGhURi1mQkVBa1M2ZTV3VThkNmJGbVA0SFI5VHNyNVlQazd3SUtEWHNFWG9qSzBRakVNbmZZN1ZQeWVsMnM1b3FJSjN6bGtoU1E?oc=5",
+      "source": "The Daily Gazette",
+      "publishedAt": "2026-11-13T20:51:00.000Z",
+      "summary": "",
+      "topics": [
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "42c8278472d4",
+      "title": "GlobalFoundries breaks ground on new $10 billion semiconductor facility in Malta",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekNIcHRtbzAxcGpIbjRLLUF4WnQ4RkNGSFVVMkx3OHgxUTRnTTduM2Y2UFE5a3BTZGVidHZhUkVWampVUHJZRlBWdFhPVVkxaThTVUpVRFJlNDA3blE4bkJ5cjdpcE80Wk5md20zdGhXSWhGb1pfblg1TDlDM184R3hweVpMWUZ1cFBOc25nNllabTYzaTZYampCakNOYlBaVzRxTVJJMFZrS2hmWVF3bW8zZURXd0JsU3c?oc=5",
+      "source": "Troy Record",
+      "publishedAt": "2026-11-13T20:47:18.000Z",
+      "summary": "",
+      "topics": [
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "cbd28a82fcee",
+      "title": "Nvidia Tanks as Altman Joins Dario in AI Chip Export Ban",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZklXTlY1a0laWXlwNlNuWWloMXFRb3RvbFJpWlFGTFBxSFFaSk43UXZGY3FGVzhBb1h4VGhjWHhKdG5XUHhpLTBlN1ZZVzZZRm90Tm5peW9JUnhicFM3MjdMN1pleW5oNC1rTFpFZ2J3RllWY0tNYl9aa3d2OU1ZWkh1c2xDVlBmN1pnZlF0RU13R2RzbW90WXktRQ?oc=5",
+      "source": "Yahoo Finance",
+      "publishedAt": "2026-11-13T20:07:30.000Z",
+      "summary": "",
+      "topics": [
+        "ai"
+      ]
+    },
     {
       "id": "7e26bf8fa881",
       "title": "GlobalFoundries Breaks Ground on First New Semiconductor Fab Under Landmark U.S.-Japan Initiative",
@@ -16,13 +132,36 @@
     {
       "id": "acffdb1cc46a",
       "title": "Nvidia episode prods India to speed up its semiconductor mission",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJybmZVZHRqOWM0U3JGZ2tEc3lIYkh3ZVQ0cWZtYU5HdWNPc05ldlhkblNUNHdNREpSWHpsWHpyTUt0SWtoWWpTcnNtdndmWVdJRElzd1ZCTmoyZW82enRQMWlpb1NiT3ZzRVBlSENZNVRyYUZyX01zMWZielV3YUFZNTN5V0tZZjZwaGZBQTVadVFzQzRLeWxmZGY1djBHaU5XWkxod0l1ZEY3djlJNFE5RzVxT0I2SjRF0gHIAUFVX3lxTFBBMThPTDhsRFFSbkhkUnVKNXpyVHZQVktuTURfSHNqSGRrX3pkZlp6ZEZzaE9uVENfUWlHbF9hTnE2Y0tTZ29tWGpHbnJZclQ4c0dxNk12STBkU3dOMnBHUjA1bTFLNlFibDZ1eW8zXzM0Sng0ak5DNzJzU3VDaFI5bVNuMWVsa1d0QVJNWk5aWTNTWGhZQXJUVTBvLThPOTNfZXFJaE5HdkNEN0lGb3U2RlAxSVplRU5NWUZGQmFBODgzeU1OSUFx?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQTE4T0w4bERRUm5IZFJ1SjV6clR2UFZLbk1EX0hzakhka196ZGZaemRGc2hPblRDX1FpR2xfYU5xNmNLU2dvbVhqR25yWXJUOHNHcTZNdkkwZFN3TjJwR1IwNW0xSzZRYmw2dXlvM18zNEp4NGpOQzcyc1N1Q2hSOW1TbjFlbGtXdEFSTVpOWlkzU1hoWUFyVFUwby04TzkzX2VxSWhOR3ZDRDdJRm91NkZQMUlaZUVOTVlGRkJhQTg4M3lNTklBcdIByAFBVV95cUxQQTE4T0w4bERRUm5IZFJ1SjV6clR2UFZLbk1EX0hzakhka196ZGZaemRGc2hPblRDX1FpR2xfYU5xNmNLU2dvbVhqR25yWXJUOHNHcTZNdkkwZFN3TjJwR1IwNW0xSzZRYmw2dXlvM18zNEp4NGpOQzcyc1N1Q2hSOW1TbjFlbGtXdEFSTVpOWlkzU1hoWUFyVFUwby04TzkzX2VxSWhOR3ZDRDdJRm91NkZQMUlaZUVOTVlGRkJhQTg4M3lNTklBcQ?oc=5",
       "source": "The New Indian Express",
-      "publishedAt": "2026-11-13T18:40:31.000Z",
+      "publishedAt": "2026-11-13T18:40:00.000Z",
       "summary": "",
       "topics": [
         "india",
         "ai"
+      ]
+    },
+    {
+      "id": "595770994da4",
+      "title": "AMAT Q4 Earnings Call Highlights AI Demand and 2027 Growth Outlook",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUzV0cjBtYkstUTVybndzc3Z4RTdCTTRvaTVpaGhFLTdHN0Y0TjZlWXk2T3pJS0JxelIyYVJPcUxSNk15VFhXVjZHU3JwQkJ0UlZabURQem1yNkR3bjBSRGxKZ1FCSXZ2dnl3cVhYbldpUTl6eFdKQWpXSUkyTjBqUnUyeElTZ2pyZlhPTzVPdzZfY1ZkZUJZdVlUbTRFcy1TZVd5US1Na0ItUGNUdXI5aUFsU2FNUlV1cF9JLWtjUQ?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-11-13T18:14:00.000Z",
+      "summary": "",
+      "topics": [
+        "policy"
+      ]
+    },
+    {
+      "id": "2549d3b3cc9f",
+      "title": "Taiwan's Semiconductor Output Value Surges to Record NT$9.76 Trillion; Memory Jumps 2.6-Fold, Wafer Foundry Tops NT$6 Trillion for First Time",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJeDMtSVB5UzRFY3VDbDkzLXlEaGF6Q1dHN3F3c3BPOGhvZDRBNWhRU1RQUGR5ZXN4MXkwZFBPcnpmU2NaYm5KbFJEQ2llT0FSYk1FUGprZGZnZUhmQWl4clZKMkl3US1TalNPbndkRnhET0VMRlE?oc=5",
+      "source": "BigGo Finance",
+      "publishedAt": "2026-11-13T18:05:00.000Z",
+      "summary": "",
+      "topics": [
+        "manufacturing",
+        "packaging"
       ]
     },
     {
@@ -35,6 +174,15 @@
       "topics": [
         "manufacturing"
       ]
+    },
+    {
+      "id": "b007b91d3dd4",
+      "title": "Teradyne Benefits From Strong Test Demand: Can It Beat KLAC & COHU?",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1doY0NSRkV4RFpWWUg3WFppZ3lETUxBY2xsT2lkSnRfenNDUy1qYXJqLUlnOWd4enNvYmNvUXVYZGR4Q0RFcXJBQ3BkMndfTFo0aHhGckFCb1E1VWJQMmxLTmFpN2p3Yy1Kek81TDJsT2wzX2U5bG5Jdi0xOERSOExrdXp0dl9IWjM4bnc2OFlSdFJqYVAxeUh4V3ZCT0F3NUJzS0JhUjNMclEzZUtVYXdqU1VGb2U5WHNF?oc=5",
+      "source": "TradingView",
+      "publishedAt": "2026-11-13T17:59:19.000Z",
+      "summary": "",
+      "topics": []
     },
     {
       "id": "240f2a20711b",
@@ -75,17 +223,6 @@
       "topics": []
     },
     {
-      "id": "42959c6679d3",
-      "title": "Alice Huang’s AI Chip Network Unveiled as Nvidia Drama Unfolds Further",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUMwZDFjbzlWdkduTE5EZW01SWd0M2RnQmVMb0FLZkZXX3BlQlZUZFZWWGdLV0lvSVF1QlhJNWJVT2dxWHYzazNrcjNZdXFPRnVxdG1GRHVvSlFOQ09NdW9pc1JSbU5nMzRZN3FZSTJVU1pPdmU4cjVKOUZ4cThEVkJCNjZIYzlrei1nVFFvNlFRX3BCbWt0WV9fLUFsNmc4S3MtZFk5UllVaG14cE9qY0pwZVhxbm1pa043MUJaOVZEZw?oc=5",
-      "source": "Bloomberg.com",
-      "publishedAt": "2026-11-13T16:51:18.000Z",
-      "summary": "",
-      "topics": [
-        "ai"
-      ]
-    },
-    {
       "id": "e77e5dc90f09",
       "title": "GlobalFoundries Breaks Ground on First New Malta, New York Semiconductor Fab Under U.S.-Japan Initiative",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNkNXazFEaEgtS3piM3RWMWF2a3lPTzV6a0ZTVU11VHpKY2ZyUnV6RUQ0cUFrN2YxQWlYLXo1d1NKMjBSVDBPelJtMHJnSElkb3NLbkN4YVczOTdBNUpLRmVoRE0yME9LazRyZ0x1NUpsQXI2TUtPM0hRN2R1TjZaT2lHQUcxdWhRZWhrRmI3YklNbHNlZHA0Q201aGliSGtXdV9udHFWWTlFTUs2YjdIaUtyN2FEUjNMRjNKazc3dkdBaldPRk4zdU92QUJ4WHg0Q2dkVHNB?oc=5",
@@ -113,17 +250,6 @@
       "publishedAt": "2026-11-13T16:27:35.000Z",
       "summary": "",
       "topics": []
-    },
-    {
-      "id": "14681200863f",
-      "title": "Malaysia and Singapore step up Nvidia AI chip probes as charges brought against Chinese national over 917 smuggled servers — firm at center of Jensen Huang controversy announces inventory audit to account for all restricted GPUs",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNLVRQRDJjLUYybzVveW5wWEV2cU9ka3VhQXpvV3dWN00yNS11bzBnb0VDOTNENTVFdjh0ZkdMVDF4bjYxTTFZM0s4YmlsMHFyNUZjREFSRTN2Vi1QVk9mMjNqQ3JpY2hKWGRLUFNFR3ljWl91LWQ3dXhmQlNjdnR1WkMteHV2RklKek9UMElmLWVMa3NPU21yUnJ3akNvVDFBQ05fbW1EMVVOMzloYk5YZnU4di1SZ2VlVWkzOE1iUDVJM3R1OVFfb0E3bXpBLWJiY1pDekhXWUtScUplMU9TYVRSYkxYcmRmNmJTeTdKZ2RsU3NlM3pTalVXLWdwMlU5TmZDc0EwaS1wN3E2ZThQWEtjWDRteGRWZktZNDBIbDN4XzhJckg5akw0NXJHU1hxbUpfenhPVEpQQVFDTEZjOFg4d1VTbmNXSzVsZnZQQ01NTjZsamZDb0F0dE1HaDVQRDRONDRhQzRrOXNhbVFHOHJ3YUNHbEl3TVdkamVvNTRMcnFlVXV6LXBOcmNBaWtEeFBtRkRuNWNjZ1VxWUczdFUxTQ?oc=5",
-      "source": "Tom's Hardware",
-      "publishedAt": "2026-11-13T16:15:28.000Z",
-      "summary": "",
-      "topics": [
-        "ai"
-      ]
     },
     {
       "id": "dc56a74f710d",
@@ -174,26 +300,6 @@
       ]
     },
     {
-      "id": "9e668e75eda7",
-      "title": "TSMC’s Terrific Growth Clearly Shows That the Chip Sell-Off Is Overdone. Here Are the Best Stocks to Buy Hand Over Fist",
-      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOSk5ET2ZQYTFkYjhLNS03dkFZY2JLbHMxbjdBb3J3ZEdsdl9zU1A3Mk9zUnR5dHFTQ2Jha0huN1l1djFBaEJzVUR2SzM3dWloZFRBbHZ4eGUxc0JQLXgzbGZfeTB3dEFZSmduUE1YQ1MyQ2lKRUhtNjZ3eWpjZnNnazNBa1A3eE9PNkZZQ1FRQUhRZXpRRDNhcUg2Uk5XUV9fSjY1clFlcDVrSDhWVFdsZUxNWHBrS1gzSW05bDBsRFM0ZlRaVDlNaHduQjBpWWh5YzNtdWpIM1QwR1c2SmFyWlN5dVVXMkM5SG1HUUd3R19GSXd4VzVPQS0zem9lbUxDalJjdlBzWFBLSW94cGJrcjh0NnNoWWdiUGpIM1RiLVp0aHRmbzNWNTRVQTE?oc=5",
-      "source": "The Globe and Mail",
-      "publishedAt": "2026-11-13T15:20:11.000Z",
-      "summary": "",
-      "topics": [
-        "manufacturing"
-      ]
-    },
-    {
-      "id": "b007b91d3dd4",
-      "title": "Teradyne Benefits From Strong Test Demand: Can It Beat KLAC & COHU?",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ1doY0NSRkV4RFpWWUg3WFppZ3lETUxBY2xsT2lkSnRfenNDUy1qYXJqLUlnOWd4enNvYmNvUXVYZGR4Q0RFcXJBQ3BkMndfTFo0aHhGckFCb1E1VWJQMmxLTmFpN2p3Yy1Kek81TDJsT2wzX2U5bG5Jdi0xOERSOExrdXp0dl9IWjM4bnc2OFlSdFJqYVAxeUh4V3ZCT0F3NUJzS0JhUjNMclEzZUtVYXdqU1VGb2U5WHNF?oc=5",
-      "source": "TradingView",
-      "publishedAt": "2026-11-13T15:20:00.000Z",
-      "summary": "",
-      "topics": []
-    },
-    {
       "id": "9709eb678e05",
       "title": "Jedec creates Subcommittee to address System Level Reliability Testing",
       "url": "https://www.electronicsweekly.com/news/products/test-measurement-products/jedec-creates-subcommittee-to-address-system-level-reliability-testing-2026-11/",
@@ -219,6 +325,17 @@
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1teDZFbGtNYWhXdnJiX1hXQ1FWc25RNGtOaUxNQjNpa2NlaWdVN1M3RFdPNUFVYnRFX3d2U1ZGbFNKTVl2a3VleXBKVnh0dk1DcW4tZ2tWLWJTRm9WVS1zay0zdHFsUjRhaWpmUTdtVnRMalR1ZElIdGctOG9sZw?oc=5",
       "source": "The Record from Recorded Future News",
       "publishedAt": "2026-11-13T15:15:09.000Z",
+      "summary": "",
+      "topics": [
+        "manufacturing"
+      ]
+    },
+    {
+      "id": "9e668e75eda7",
+      "title": "TSMC’s Terrific Growth Clearly Shows That the Chip Sell-Off Is Overdone. Here Are the Best Stocks to Buy Hand Over Fist",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeThJTHVxVWZldUMzNF9ST1p6cS1HRWlaM0pqUjlQMURURnhpby0yb1hXNUhEeG9oUkRkSkFFdjdSUVZoWVpDbG1NZk95V0lLbWxPQ0luS1ZWUVltR19TMUNGb1BUazRRUHVUc0k1OTVINlVhX1NrSDFyTTF4LVk5LU02NkY?oc=5",
+      "source": "AOL.com",
+      "publishedAt": "2026-11-13T15:13:02.000Z",
       "summary": "",
       "topics": [
         "manufacturing"
@@ -283,6 +400,17 @@
       "topics": []
     },
     {
+      "id": "5ef4d7a504e1",
+      "title": "How Nvidia turmoil could impact chipmaking in Arizona",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVB3eEJQNEI4YXNRLWZEU1YzZWpSeWJPQVE3U21LaHhxQUp5NHg4SGZMQW56Y1A0emF3OGdOQU96ZlV1dnNSN1VjUVJEV3czbTVSUlltaWxoU3IwRjU2alUtalY5T3FCVEZuMlQwNm53dUVjOWUtOUJpYU9feUpjRTZWZi12d29lRGlDaXFMOHliaDltMGgwdQ?oc=5",
+      "source": "AZ Family",
+      "publishedAt": "2026-11-13T13:47:47.000Z",
+      "summary": "",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
       "id": "7aaa88e363b6",
       "title": "Taiwan Semiconductor Just Became Even More of an AI Anchor On Nvidia’s -25% Plummet",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNC1wYmg0YW52YkotbEpoeFZPZVFlb19TU3liczQ4UlhjWUlOSDJWU0xXTk10eGJWcGxuanFZRG9wVm1kSnpvb1g1UVhOcXp4Nl92R09ZUWNUbG1vYnJYNTdfb2FNSHFrUzhteTRiRXRVVkNyeTczaUh6MGFPWG1qbnZ6LWNhRHpqRUpONVdkQ2kwZVY3QlduYUQzVWIxZWNzUVNCcnYyRGExbU5pYUlCb0tYbGRVRHRTMG1OLW9MaGZXZw?oc=5",
@@ -313,6 +441,17 @@
       "summary": "As a semiconductor professional with 45 years in the industry, born and raised in Silicon Valley, I’ve followed Nvidia and Jensen Huang from the beginning. Jensen has been my No. 1 semiconductor CEO for many years, and…",
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "id": "ed63bdfb988a",
+      "title": "TSMC authorizes up to $1 billion for Anthropic and OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZUVHM0NUU0NjNHROXzc4RTI2V0d6eFBEcUVNQXB1U2FXUVZ3ckRKQlhaZU93cGhSVlF0OVZld09xMDM2aGVGVUUtTlFiZnljam54LXlybDc3UUZxSEJOS3B0QmxMX2NzNGx0VDAyS0R5V1gyTmN5cHJtS2VFN05mVDdSa1B3T3ZQWmc?oc=5",
+      "source": "NeoTeo",
+      "publishedAt": "2026-11-13T12:57:45.000Z",
+      "summary": "",
+      "topics": [
+        "manufacturing"
       ]
     },
     {
@@ -377,7 +516,7 @@
       "id": "18e7fbede3dd",
       "title": "Watch Nvidia’s AI Chip Share Set to Shrink: Akarca",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOel9hWjRUZklJbFd6aTB2dTExNkF5ZEttTDB6WnFIOS0wS2JCdXRSNnA2Z0RVVHFERlVNTWVvSnlIWHNWV0puM3hNNmxnQlpwX1lseTdieWUtdGRsNktIRklDVXUyckVqSDlKNFJ2b0JiMUE5MEhCLWlDcnhwMEFKV2k5dUhGaGk1WVBkZm5Ralg5R29TenFFLTdhZS10Y2s?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "publishedAt": "2026-11-13T11:23:16.000Z",
       "summary": "",
       "topics": [
@@ -465,17 +604,6 @@
       ]
     },
     {
-      "id": "cb88db72323e",
-      "title": "Hong Kong Tech Stocks Slipped On AI Chip Export Fears",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbDVhNXBtd3FmZ3ZfaUJpWlNBY1dRTUVJRXdRbVlIek9YZDA5c3hwWDBabUhFbTVSMnNSTXJVc0xfVFBsTU80OXJkYi1WSGotalFmclVWelFmcVhpZnhFVGNpSTJrOUZyNkZsNXRtaFhBaUJWaHdqQ1Zjem9nSzM1UURmQ1gySlBVTkE?oc=5",
-      "source": "Finimize",
-      "publishedAt": "2026-11-13T09:47:11.000Z",
-      "summary": "",
-      "topics": [
-        "ai"
-      ]
-    },
-    {
       "id": "c94341fdbd7e",
       "title": "Applied Materials Q3 CY2026 deep dive: AI demand and advanced packaging drive outlook",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLWJnZy1mM0p6T3FONmQzVGFrQ3pnckRIN1J3eGlQTmN4ekZGZ280WFZSeVMwSktkTVFzcWpodUlFMFpqYjN4VEhRa1NDeldqX29fa1VUdG5aejRFc0lCaGJWakJiOUR5WlQxeUxsQWZOcXNVLWwwbzhTRFhXTHByVGY2NjIxdTNwODhLWEZxck1fX2hoUHdRRTJISWlMQlQ5M3JfSFZNRFg1bFM2eXV2b1NicG92WTdGYXJuM0MzUUpzWGVxVHotcWdiSFVUX0JtN1h3dGNDUmhHNWJBb0M5Nmln?oc=5",
@@ -501,7 +629,7 @@
       "id": "28a1a7160d6a",
       "title": "DeepX Bets $100 Million on New AI Chip Using Samsung Technology",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTkRBMFRqbmlJdXhBT0E4TE5GUUdYTktYOVVwWERUZnpFY0RGVmVsMUNGc2hNLTVpV3NOa0E0Wm5NcWQ3S3VQenZoMzdUN1ZmYWxlWk5GVzhLcnZuU0tMMWRlSXBMM0hoaGlKRVF5WUtpaUN0QTM4NTJzZS1fUWVtdkloMDBRSUE0Mko2U1NDUFktaGpxalN5VFdPTVE5SzJEcUFzU3RKNkZhR1hYby1nMW1TMA?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "publishedAt": "2026-11-13T09:33:55.000Z",
       "summary": "",
       "topics": [
@@ -551,10 +679,21 @@
       ]
     },
     {
+      "id": "cb88db72323e",
+      "title": "Hong Kong Tech Stocks Slipped On AI Chip Export Fears",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbDVhNXBtd3FmZ3ZfaUJpWlNBY1dRTUVJRXdRbVlIek9YZDA5c3hwWDBabUhFbTVSMnNSTXJVc0xfVFBsTU80OXJkYi1WSGotalFmclVWelFmcVhpZnhFVGNpSTJrOUZyNkZsNXRtaFhBaUJWaHdqQ1Zjem9nSzM1UURmQ1gySlBVTkE?oc=5",
+      "source": "Finimize",
+      "publishedAt": "2026-11-13T08:47:11.000Z",
+      "summary": "",
+      "topics": [
+        "ai"
+      ]
+    },
+    {
       "id": "371ee6cea4a4",
       "title": "New Energy Power Launches First Medium-Voltage DVR: Reshaping Wafer Fab Power Supply Safety for National 3-Year Power Quality Action Plan",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03SlBEenpxb3M1YV9HN2ZESzZ4T3RjMWFHal9NVlhTdW1UZEVkZkg3UTFTb1ZfV1ZhYjlsV3ZyNnNHRlBZdnVYSDJ5STlRTDFmUko4?oc=5",
-      "source": "36Kr",
+      "source": "36氪",
       "publishedAt": "2026-11-13T08:41:41.000Z",
       "summary": "",
       "topics": [
@@ -571,6 +710,18 @@
       "topics": [
         "manufacturing",
         "ai"
+      ]
+    },
+    {
+      "id": "321315ce052d",
+      "title": "Applied Materials Projects First-Quarter Revenue Above Expectations as AI Chip Expansion Progresses!",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTZ5cXpBUjNaNUJRbzlHSFB3QnA4WkM1dmxvYlFzeXczREZycDJiSDI2OGZVVkdHMFF2bkJPc0psMVpkN1Z1TEJXZ1FCajE5dzlOSjRFOGtNeXlYUm00YUlSOE1EbVdoWkUtMXhwN0ZMM3JLdnhYWExHZkxKRHU5bFVvT1JsNE0tMnlpaThB?oc=5",
+      "source": "www.tmgm.com",
+      "publishedAt": "2026-11-13T08:33:57.000Z",
+      "summary": "",
+      "topics": [
+        "ai",
+        "policy"
       ]
     },
     {
@@ -641,7 +792,7 @@
       "url": "https://semiengineering.com/chip-industry-week-in-review-164/",
       "source": "SemiEngineering",
       "publishedAt": "2026-11-13T08:01:34.000Z",
-      "summary": "Nvidia faces questions about security and oversight; 300mm SiC breakthrough; Siemens buys Lauterbach; chiplet standards; new memory bets; imec interposer process flow; TPUs with CPUs; 2D transistors; anti-smuggling…",
+      "summary": "300mm SiC breakthrough; Nvidia faces questions about security and oversight; Siemens buys Lauterbach; chiplet standards; new memory bets; imec interposer process flow; TPUs with CPUs; 2D transistors; anti-smuggling…",
       "topics": [
         "packaging",
         "ai"
@@ -696,7 +847,7 @@
       "id": "bef6e68c2435",
       "title": "Jensen Huang Exit Sets Up US-China Showdown Over AI Chip Curbs",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYTVQX056VWJyVXp2UTNaRWlHSXdrSnR3TmRYT19HVjRVTTc0MXM1ZFJvRmNlV0w5QW80OEdZWUlLc2ZPRmlDUDFwTWxMNHkwMHFHclNKZVE4d0NQTTZtUWZTZDdTWDFNTlMtNlJwT0FYUXJpZWtYaGV1a3BJM04wODJBQnRtLXVHbEo0NHBIWFl6Q3hKV0M3U3hibGkzTVJuZHc0UjZ1bWxfTVZJRGVuS0FsYw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "publishedAt": "2026-11-13T07:30:00.000Z",
       "summary": "",
       "topics": [
@@ -844,6 +995,18 @@
       "topics": []
     },
     {
+      "id": "a47a4dc50caf",
+      "title": "AI Chip Expansion Continues as Applied Materials’ First-Quarter Revenue Outlook Beats Expectations!",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNXzV6SGFwcldKa19SOFA5eVZtdWZTdU44NnhCOVk5LU1ILXFNMmFoZ3lFUzNwRDF3NFBibDJVb0x2Q0RScG1QN0NGNWtzVjN0a2szcHNaZURIaWR3SWw0c1A1NS1qbE83Ty14Y1Z1Y0NUUDRSNU54TnNPTjFEYndUX29NaHFjSTJhckE?oc=5",
+      "source": "www.tmgm.com",
+      "publishedAt": "2026-11-13T04:41:05.000Z",
+      "summary": "",
+      "topics": [
+        "ai",
+        "policy"
+      ]
+    },
+    {
       "id": "19bad3785d84",
       "title": "Applied posts record quarter, sees chip equipment demand to rise over 30% next year",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XckRKNDhxUFVmdjVBbEpCZXJKeGhfWl8yTmZDOV8yYlJCbjhIc08wLWNXdTlHYUcyNkxFTlgwZ3RwYnpZaGxxUTY2LXZLUnlSSnNhMm9DaG9FR1o3dzg0ekdrNkNhNmhtaG00aXBLQnVwenZvdUpQMWdn0gGOAUFVX3lxTFBITFczZGNFRXA1UFcwby1SWU9CS0xEZTRQUDNUNnhpUHh2S2dSbE1TTzViaHNVck5ncVM1ZExKcmd3bFhUTWhRY0NTQWdKel92emZJNzN4X25sQ1VXbUZOWEduQXhEOWtRMnpKUVFXOHNMeDh6Zzc2ODZadHVGTURPa0doRnY5c3lhM2NQelE?oc=5",
@@ -899,6 +1062,17 @@
       ]
     },
     {
+      "id": "41697e06fccc",
+      "title": "Samsung to invest $4.48 billion in HBM packaging plant in South Korea",
+      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPd0E5ajJGU1haRXhud3FFcXp4UXg3Z3U4a1piZGlBbjJFenZlOG5zd2JuWFdicDVBX3Nia1NSV2NVUWU2cGwwOWZkQ1h3TGZXc1VKVDE1OEk2WFo0MkFoRE9nVTFlYWVpdEVrY3ljdkdFQVBrX3hUNUNhV2hnWloyUXAtaGpYczdBZXMzbHBvVUxVV1VxeVg4aGNtZS1ILV9mNWQ4Mmpjd1pyYUNOb1F3QnlERDRCTnlOVVh4NGVaS2lBQl92RE42eTM4a2tCdUYxMUNSVXBtSGhEdXNTQTI4Q0JhbUZ4WTZVSDg4Ml8xamRkODJCdDJoTllVRm1TMzlsSWJyWXZIS282S21pcXhlQXJFRzF6UzVGQ1ptYdIB5AFBVV95cUxPRlJZWTlSM0IxNU9lTWdMRWJXMVRyS0p2d0hnLTZIWml1NElVSHdwUi1WWXhiRWhuNUF3NXozcHhweS1FX1FhZHExVmhvUlNQTG9qbDhSYTZLakx6NThZdTlSOUlfbmtfRHRNVVUtOWp3UDJaMFZCZ1ZBVDF1T2t1N2NfYm9oMzRnMEZXQVFicDRfRW5wb25lTy00ZVZ5TnJUc2ZjckZabEd0dzNSNHJvYU05SU5iSnZHWXJuZEs5UDFmUW5IUzVDSERjQWx2MXd3aUwteEU0azRwUGx5S0k4d1JiQ3I?oc=5",
+      "source": "electronics.economictimes.indiatimes.com",
+      "publishedAt": "2026-11-13T03:07:25.000Z",
+      "summary": "",
+      "topics": [
+        "packaging"
+      ]
+    },
+    {
       "id": "530483134967",
       "title": "Semiconductor Exports Drive 5.5% M2 Growth in South Korea",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUF9zLU1aYzNmUzlFTXVNRTFBN2hGMGNITmlpTlFqM3FNbDdTbXljSF80bm1VVFVuUUdWRFZHQkJUWktZcHl3dVRYUWY3WmRTMEk3TktPSWk5clZNQnBUNHdLNXhYZVRNYXNpOWl4SzdmOEtjM2VDLUpuVzhtSW40SmEtOGZoanhNaWs2bFhR?oc=5",
@@ -929,6 +1103,17 @@
       "summary": "",
       "topics": [
         "ai"
+      ]
+    },
+    {
+      "id": "71dc7f0cb90f",
+      "title": "Shinko Electric stock: AI packaging plan targets former display plant",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc3BJTXg1TVpsWXZNSWkwblhPM2xwQ2xzam9CV1ZseEhvQXFxOWdJYTZjcnlYbC0tUTc2eGNBeWg1Q3lreURFX3cxZGhKTVR4WHEyeHhlRk5adWdfX2djem1jS2VNVTF3Yy1oOTlsMHBfaFFvMlRZZmR4WEZUb3htZURWSzNONl9sY0RBeWo4d2lJem1kc09vX0RQdmxCcExfRUtvczdMemhSRFk4MU9UVnVMSDFhTzBtWlNCcHo3cXFxNDhNbnc?oc=5",
+      "source": "ad-hoc-news.de",
+      "publishedAt": "2026-11-13T02:25:31.000Z",
+      "summary": "",
+      "topics": [
+        "packaging"
       ]
     },
     {
@@ -1051,17 +1236,6 @@
       ]
     },
     {
-      "id": "5ef4d7a504e1",
-      "title": "How Nvidia turmoil could impact chipmaking in Arizona",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMVB3eEJQNEI4YXNRLWZEU1YzZWpSeWJPQVE3U21LaHhxQUp5NHg4SGZMQW56Y1A0emF3OGdOQU96ZlV1dnNSN1VjUVJEV3czbTVSUlltaWxoU3IwRjU2alUtalY5T3FCVEZuMlQwNm53dUVjOWUtOUJpYU9feUpjRTZWZi12d29lRGlDaXFMOHliaDltMGgwdQ?oc=5",
-      "source": "AZ Family",
-      "publishedAt": "2026-11-13T00:18:01.000Z",
-      "summary": "",
-      "topics": [
-        "ai"
-      ]
-    },
-    {
       "id": "4ac960b19e80",
       "title": "What Applied Materials (AMAT) Said on Its Q4 Earnings Call",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQTFsak9QLTNNYVBvSGZreG1Yd0ZJWHRRaVVtcEVpcUQ2SEFqQkRfcFlQTDFOUjVYOW1hdHdKaUNOaDExV2wtRndsRFpUeGMxX0tHYkxXREJoZmhzTEg0X2RSeVU2THZRalpXZ2w0cUUyUmdtaGttVWZUTWlMbVdDN2ZyX0t5Y19fU2JhUmVWamVqenZLa1NTY2tIZWtxMUUzZ2ppbFpJV3JVcWoxYUY5WkRXa2xEblV6?oc=5",
@@ -1143,7 +1317,7 @@
       "id": "6808e90ccde3",
       "title": "OpenAI Joins Groundswell of Support for AI Chip Control Measures",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmJ4OENGS1F1RWpJNzlmVHhSZjVvYlZVWnh0YmRKQ2oxSUlicjdzcmMwZ1pBZFJZaG1lX0FXUXl3S01CSTdROHhTdTZ0NjNvei1lLVVqaUpTcEstQlYxRE84alZ6azFYMkR4QU5XakE2VFphTjQzXzVBRjRIM19pWGtad2p6aFNzRFNpb1N4VFBTamxQRmxxMGV5bE5maFQ0Q0JHakJzNGI2bXNBN0dQRFhGcGRHZw?oc=5",
-      "source": "Bloomberg.com",
+      "source": "Bloomberg",
       "publishedAt": "2026-11-12T21:35:58.000Z",
       "summary": "",
       "topics": [
@@ -1388,6 +1562,19 @@
       "publishedAt": "2026-11-12T16:20:25.000Z",
       "summary": "",
       "topics": [
+        "ai"
+      ]
+    },
+    {
+      "id": "02e3fd4ed4eb",
+      "title": "The Zacks Analyst Blog Highlights iShares Semiconductor ETF, NVIDIA, Arista, TSMC and Micron",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPdzFELUI2dGZhZzQtNnVuM2JVbWVmZnJTRG0yR0h2WERyMFdvWWNCUFBaRUUwQWM0S0RDMm9ET09ZYk1zeVNyMHRPeHBkMjhXNVpkeFhXLVlnOUNTUnVTeU1ibzVsdG9rZmIwenBrdGpEbFdPZXl1TnY4d2VWY1JLTXdpY0d3cjlJUU1qUDhKaG04TDJNelhJSTM0MG83RHpuNHpZcjB4cVZMY1FNNHMwYURXRjlFS3J4MlFpQk1mYUNTSEtrdktEc19pQWcyZy1YWDhaZERQQVhHNVhfYkNEQnZqc2lZcXI5cmltTHY0Tm1CaXluZ0VoZWZQMU1FU2RLRlI3Nw?oc=5",
+      "source": "The Globe and Mail",
+      "publishedAt": "2026-11-12T16:08:47.000Z",
+      "summary": "",
+      "topics": [
+        "manufacturing",
+        "packaging",
         "ai"
       ]
     },
@@ -1651,19 +1838,6 @@
       ]
     },
     {
-      "id": "02e3fd4ed4eb",
-      "title": "The Zacks Analyst Blog Highlights iShares Semiconductor ETF, NVIDIA, Arista, TSMC and Micron",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRlZ1LUxuNk40NnlZZlVNS3U0aWVRMGgydUp4Wlg0QUNfYVQ1U0Q2cHhJM3B3OVBLZVVEamE0eHhCNzFIVWdnMGVxYm40RENlSTI2aHBHWVdXbDhveE1HT1VGcVpzdS1RQUMtUTRLMURfazh2dnZuQ2pURS10MXhITVk2eTZXRk1aR3NIcDJ4dw?oc=5",
-      "source": "Yahoo Finance Singapore",
-      "publishedAt": "2026-11-12T13:40:00.000Z",
-      "summary": "",
-      "topics": [
-        "manufacturing",
-        "packaging",
-        "ai"
-      ]
-    },
-    {
       "id": "1eb655742627",
       "title": "Fable: The Destructive CEO",
       "url": "https://www.electronicsweekly.com/blogs/mannerisms/fable/fable-the-destructive-ceo-2026-11/",
@@ -1823,6 +1997,18 @@
       "publishedAt": "2026-11-12T10:20:00.000Z",
       "summary": "Why specialized wireless devices and SDR software IP matter to the next wave of intelligent machines The post Connecting AI to the Physical World appeared first on EE Times .",
       "topics": []
+    },
+    {
+      "id": "70c92c2d1a37",
+      "title": "UK AI chip start-up Fractile raises $720M",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNN3oweDdSQzdkelNrbVBLQTRlUEVPb0xnRURSeXM2V1V1NWxsX3Z0bW5FRDViSWdxLWhwQk9xSUFTQzRuaHRWUjFXSHl3ZFpRdS1wdHVvd2t0d0lLWi1oeGNOVEV5N2FudkJ4eG9IMlFFVmNuZXBOcjFJRUVnRmZOcDB6N2xaT2VM?oc=5",
+      "source": "Mobile World Live",
+      "publishedAt": "2026-11-12T10:15:40.000Z",
+      "summary": "",
+      "topics": [
+        "ai",
+        "policy"
+      ]
     },
     {
       "id": "b90ebe5eb14f",
@@ -2386,195 +2572,6 @@
       "publishedAt": "2026-11-12T04:53:00.000Z",
       "summary": "",
       "topics": []
-    },
-    {
-      "id": "51a30ad03138",
-      "title": "NVIDIA Order Cuts Could Benefit Competitors",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXFpMnNDWTRIRzB4RHo1S3hRd2Z4V2NyVFhral9mdzhMVWhwUWIzTUFFb3hZX0lQc3lsbXNpM01MbTJUVGJnUElRSDZtaVVxbmdhQ3JKNGltbEV4UmFtQ0xFazlwZm1PYVpnWmpyVU1kQmdnZnpKb3RsMkFfYmpEbnEyd1pzUjZH?oc=5",
-      "source": "조선일보",
-      "publishedAt": "2026-11-12T04:45:57.000Z",
-      "summary": "",
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "id": "3dcb89da1b98",
-      "title": "Nvidia Challengers: AMD, Broadcom, Or TSMC? Who Could Benefit If Jensen Huang Loses His Grip On AI Chip Giant",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSjg0Y2tvMVB3RTZCZmFVcHFaeXpvbWtlMmkwZy1kSEtvN2Q0R3J5V3I1U25LbWFwT3lKRUVCVFZ0RXplcXpCaWRTcjlxR1pZUnFFZUFmQzhoU3FQdEpCUTFYUlB4NVlQS3lDa3lkRHdYZTV0ZUFvbXU4cHNGeUdORjAyLWxEUG16NFFhWTdFaFJnbHZzQjI1YU9fVThsbDV1UnFn0gGoAUFVX3lxTE10OTVVUDhjQ0taS2hTR21STlJJSjlsdEpTQWhVWlZBYlNnXzZTWHR4c3g5SmdtUDJvZVZicTlDclJNSkRUb0htdXktd0NIOUlzRE9yQnZUbm13Z2MweFRVWmNjbTBCQmZfRUFaR1djWFhOcVpEbndKQnhYX1MyM1NMaGhOWFR1YVg5Q2FKOVlXWklkS0dFdklUZG00LV9Xc1VtVnZEbzZ3eA?oc=5",
-      "source": "ABP Live English",
-      "publishedAt": "2026-11-12T04:41:15.000Z",
-      "summary": "",
-      "topics": [
-        "manufacturing",
-        "ai"
-      ]
-    },
-    {
-      "id": "ec8b2dab19ee",
-      "title": "Siemens Gears Up for Earnings Day With a Chip-Design Deal, a Grid Contract and a Fresh Valuation Deb",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNcFNPT0ZDMDM4YnpFZTNXaTNRNV9xcnlHb1dWSjVFTXFxSV9Ga05QVUpiamxOY1gzQTRVdWUzQVJZVnd0eGpHa2s5SDNjUlU4ZTg0YXozUWpXWURFejN3bTYxbmJaX0NMMWNPLXRLNUJvOVN1emRmRmlubE0xNWctd29CMVNZOElIQmVpUXV6VlZQLTJPaWNXUkJTRjBUbW83ZHpvOVNwa3QtZmFTVHRlbUtET0ZuTXBwdkhhQzhubEU3MklTNHpnWHlxY3ZFa3J3ZHM4TUt1QjJ2RzF0S3Ftc3FmYlI2ZEVPWTIxajBYSFJFR2ROLWh6VlVVaw?oc=5",
-      "source": "ad-hoc-news.de",
-      "publishedAt": "2026-11-12T04:11:56.000Z",
-      "summary": "",
-      "topics": [
-        "policy"
-      ]
-    },
-    {
-      "id": "fd393e2752d3",
-      "title": "Semiconductor Advanced Packaging Market Expansion: Powering",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTZ1NjdqNHdaTkkwdWNNam4zTnM2eldhMm94VW1jWTQ5aFdZejBiOThJQkR5WE1nSV9QRDdUSkljYUh0MjlfQ3RvRmx5X0gxclVVMXJGbU5xMWZ5LXBoZTdBNGtLcVNoU1I4UV96cWZ0c2ZBakNQbnB2UmNkSGdUaURCTlEzZUxJZVY4QWRMUFktZW40andkSVBB?oc=5",
-      "source": "openPR.com",
-      "publishedAt": "2026-11-12T03:59:05.000Z",
-      "summary": "",
-      "topics": [
-        "packaging"
-      ]
-    },
-    {
-      "id": "51b0e8fafc62",
-      "title": "TSMC sees surging AI chip demand, highlights advanced packaging and physical AI opportunities",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUDJYajNhdzRuS2tCYmxrT2RpbWtkQjZrYS15QUN6aUgzZzZPeUIxQkVOZ283eUFTczJMYm9TbF9ISFBkWFpHaEFweGd1Wm4yS01ZRDJPeUtaOVZwSzBPVTVxOU1XbU1JVzlEeFB4NUZhVmt0WDdZbUp1R0gtRkV1MHRRdVdsQzU4c3BsVGFPTDBOTUVVLXgtc0FxVQ?oc=5",
-      "source": "digitimes",
-      "publishedAt": "2026-11-12T03:32:13.000Z",
-      "summary": "",
-      "topics": [
-        "manufacturing",
-        "packaging",
-        "ai"
-      ]
-    },
-    {
-      "id": "27b9226c6811",
-      "title": "TSMC, Samsung, and SK Hynix re-engineering AI chips to beat heat limits",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZF95cms3cS05b1VjWF9qanVGcUJTRHRJYkJNMUUwVFFDUzYwRUpDTDFBS09FamVxeTJUczAtVEZDRTlsdXZkM3kyUUlBalUxd3Q0UDhoM2NJMVBad2Z3cUFyN2I5WWFZaWJDY3ZTcTZod3JhT0dyeTBkRVl6elNsc0l0LVlhQ042SGJ3MtIBkgFBVV95cUxQT29DdGhfWXN6Rm5JSFpzejBVX0praFZqMzhXX0xyUDZzblZwQ0RXYXFJSEZVOFpFeFkydEppZnV5LVBXRnE0alNyazd0eENWdFd5OUQtZ0ZXclhseENNQVdVVGktOGZLUjhQRHF0c2NScW9PWGNnbzZtaW9XWWRtTjhSd3hiQ0x5VkxqWUVONHprUQ?oc=5",
-      "source": "Sammy Fans",
-      "publishedAt": "2026-11-12T03:05:16.000Z",
-      "summary": "",
-      "topics": [
-        "manufacturing",
-        "packaging",
-        "ai"
-      ]
-    },
-    {
-      "id": "1ab4e11d6771",
-      "title": "China's AI Chip Stocks Surge as Overnight Triple Boost Lifts Cambricon Above 1,000 Yuan",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FWm5IaFk0Q1o1bFZIandGaU5kazg0X3JJc2VpUk5CYk1fZDg1LVZQeFQ1OHBFX3NkUmNtRmpsNmpkZEkyWTkzbzJ4eFVIWWdNay1ja3UwQkVxbDRaLTAxUmUwYWozSzFtVWgzcDItUWhscTlabHc?oc=5",
-      "source": "BigGo Finance",
-      "publishedAt": "2026-11-12T02:57:00.000Z",
-      "summary": "",
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "id": "b5bc38b6f4de",
-      "title": "Samsung boss vows AI semiconductor pivot with new HBM advanced packaging hub",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWTZ2Z1Y2c0VST011WXNiM0RvQlh1NlZIakU2RzlWRTk0Skgzb3QyOGpEcE9jRVdOMzNKMW0xaW9aaEtSS3BjaHVVeGZNS2VZYnFTSFJucFhPdktXcVBfaThWTFpzS2YzSTJGX1F1YmgySEIxMHFpcHdjNnJ5VFdzNWs0VG4xdnhGR3l3aVVYeGYtSEVscTctY0hNa09EZkVvMHZUTWh1UDBuRkIxYXEwS2M2d0E0cnFTeHfSAboBQVVfeXFMTlk2dmdWNnNFUk9NdVlzYjNEb0JYdTZWSGpFNkc5VkU5NEpIM290MjhqRHBPY0VXTjMzSjFtMWlvWmhLUktwY2h1VXhmTUtlWWJxU0hSbnBYT3ZLV3FQX2k4Vkxac0tmM0kyRl9RdWJoMkhCMTBxaXB3YzZyeVRXczVrNFRuMXZ4Rkd5d2lVWHhmLUhFbHE3LWNITWtPRGZFbzB2VE1odVAwbkZCMWFxMEtjNndBNHJxU3h3?oc=5",
-      "source": "Sammy Fans",
-      "publishedAt": "2026-11-12T02:33:18.000Z",
-      "summary": "",
-      "topics": [
-        "packaging"
-      ]
-    },
-    {
-      "id": "c150dc60d8ad",
-      "title": "TSMC Approves 3nm for Second Kumamoto Fab; Kevin Zhang Says AI Chip Demand Is \"Endless\"",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzdnJ6TFJzU3F3dnFRaGtOUDRtbjROQjFPa0FRNzQ5TU5oRGxkUVNKckZZYXpZSzB3SHFzRzVvRmZxQUo4QzlWa1VYUXhQczNQZmE3UkdxS3JnSkV5dmZydnRtdkc4V3JOeTB6SnRrczBlS3Rvb2c?oc=5",
-      "source": "BigGo Finance",
-      "publishedAt": "2026-11-12T02:25:00.000Z",
-      "summary": "",
-      "topics": [
-        "manufacturing",
-        "ai"
-      ]
-    },
-    {
-      "id": "a01c1d4cd404",
-      "title": "Samsung Electronics' Long-Held Vision... Building Chungcheong into an HBM Packaging Hub",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53WmNLeVEzRldnY3VkUENwU1o5RGl3bVMzQXVmaWhMaXVPQ0o2S1RfbklTXzVKXzdIQjJYaUt6blBpYmdjWE5jZlM2ZXJQMW5OSUJEb3dWYTJMRHI0OEVHMnpRUHM?oc=5",
-      "source": "아시아경제",
-      "publishedAt": "2026-11-12T02:05:41.000Z",
-      "summary": "",
-      "topics": [
-        "packaging"
-      ]
-    },
-    {
-      "id": "84e846cadc3c",
-      "title": "TSMC Adds $500 Million Semiconductor Vehicle, Setting $1.5 Billion Cap",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wZEJ0WFNEdjdObU56ejBBVzdMdU9feXdFRkRhSnlfVVhkZGl2dWNJYkZPR25HdXhlbTM0YTUyVDJOV0RGUzVDVzFudlFmRmZhc3VQZHZ4ek4?oc=5",
-      "source": "www.tokenpost.com",
-      "publishedAt": "2026-11-12T01:52:00.000Z",
-      "summary": "",
-      "topics": [
-        "manufacturing"
-      ]
-    },
-    {
-      "id": "df6d85f1468e",
-      "title": "Jensen Huang scandal could reshape China's AI chip landscape",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWF9SS2hONnR3SE5KNldvQzZLZENsbi1uWFRZNHh3dkxnSm5GemNnMWhOb2tYdl9JcUNLQThuam1kTTQzNVd1RWZJRk9nTlU3MVZmTjdBSDdCbEZldGdaYUNKTG1ocW83LXFMckxHdVB4SUpSdTEwZGZ0eHBuTTRUN3BEU3RRLXowTnpiaF80UTk?oc=5",
-      "source": "digitimes",
-      "publishedAt": "2026-11-12T01:34:06.000Z",
-      "summary": "",
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "id": "a18aaf172456",
-      "title": "Hardware-Based Location Checks Target AI Chip Smuggling (Texas A&M)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSXBlMElnR2ktaW5xa0VNazc2R25fYVFReUZVeS1LLWFRd3owRkRkWGlEaTktRjdPcmVjYUJBdFVENUwwTXQyX2pGbDFTUEFYNVdiNW5zdGpBMy1vOVFWNjYzblVKUUNkM0JLUFh4YUVhN1BjSkU4SG1VSjFibHZHMUR4bEZuNjA3UnlUX2xWNjlZWmIzcFRMeQ?oc=5",
-      "source": "Semiconductor Engineering",
-      "publishedAt": "2026-11-12T01:29:46.000Z",
-      "summary": "",
-      "topics": [
-        "ai"
-      ]
-    },
-    {
-      "id": "15c7005c0079",
-      "title": "Semiconductor stocks enter oversold territory: Goldman Sachs",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZElrbEIzeld6OTlKb0dyV2NpZmhfaDhqS3BvWGlCZnBWRHo3dDAxaXJTX21aR0F3RXI2cDNfbm9tdnU1SC1ObVUyR1ZoQXpnVUFMYWFHcHZhREc5YWZnaXI0XzJTWU5VMGtLbFpSVzdaTkliel9WcndHajA1ZmZFRzlWWkdRemJnS09VZm9rU3JUaGt2bEMyZk1GaW5HcG02aEFCblRzZXFqRFBNQTU5SjRaaml2YWFuQm9KVHVYQW91U1NVSGlzQWRtSFBEZG5hYmx30gHYAUFVX3lxTE9FRnNYR1FCTEFieGNnNVFtN01ZYlQ4a2xLS2hDUEdUOGZsTTRaREJwbklqMVYyUVlsTFc2cHZZOXpnVDhLbHhuUnQtaW15QXRwa3JrNGRST2FXM3lEbVlwQU9IRUNiWXctS3NRTDUzYW11RzZZdEo1LUxSVzRSaVlyR05PLTY4ME44ZmJGa3Q4RUtrbnkta3g5REVvLTFNMTdFSXR4RWNTZHYtNzV3MTJqWGl0Y2xQSmo0TGdmQ2lqUFpDT3libGl6Z3RTN2RVSDY5cjU0U2t3Rw?oc=5",
-      "source": "electronics.economictimes.indiatimes.com",
-      "publishedAt": "2026-11-12T01:11:16.000Z",
-      "summary": "",
-      "topics": []
-    },
-    {
-      "id": "9fa84c25ff9e",
-      "title": "Siemens Piles Up Grid, Rail and Chip-Design Wins While Wall Street Waits for Its 2027 Roadmap",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMDQzR3A0YUtDM0I3QXgyd1AwYzJSWk01VGN0Q2FTMzVDRzVKSk0yYWxKRlpLc3hKMUxnS0pUUHVMbHdNaDRzUnhpZ1ZSSTA2VHN3M3Uyb3FWNHZEcGJZdDFqVTh3LTJuNTdldFZ3TS1jRDhINWs4UVUyTjIwem40YXFRWTFZNFhQajczU0xBbTZmRndueEtEUUZXdkpUSUE5YWMtYWtzMGoyNjRSQ2poaDQ3TFBhOTVvMEp2U2lZRVYtVWpnd09xbkFOeHk0bFUtX3hVQnNuUWZCa2gwVXk2VUN3aTNlQk5hTTh5UkcwenNkMWZBYVR3?oc=5",
-      "source": "ad-hoc-news.de",
-      "publishedAt": "2026-11-12T01:10:57.000Z",
-      "summary": "",
-      "topics": []
-    },
-    {
-      "id": "e76b97a80bfb",
-      "title": "Cardiff and Swansea universities unite behind vision for national compound semiconductor pilot foundry capabilities",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeW1NYUIyaEtCVDN6cWp3OHEtMlhYaW42c1h6TU9qTXc4Qi1NX0Y2a2JmZEJtcDJnUWZ6UVRpOXV5UVpKSjgtNi15ZkJnSnA0YzRJMnp1YjBtdzBESFZMT2NyYnNZWl9CZDhaeWo1TDBJMm5oVkR5ekkyX0lOZGxLdDVtbVVxdi1FUXNIcXZVZjBJMmFBWHY1UlprdG9uLWFnOW4tbmhtWEIzWFpZaHV4SDM0dGtvMHYzSDRaX2ZidFRJVkhveXVnUjBhakpvRGFCVXJ5VjJUMUplVzhjT2JlVVVWMzFoSEt1UzlqTUlMQm1Nd3YyMEHSAfYBQVVfeXFMUHltTWFCMmhLQlQzenFqdzhxLTJYWGluNnNYek1Pak13OEItTV9GNmtiZmRCbXAyZ1FmelFUaTl1eVFaSko4LTYteWZCZ0pwNGM0STJ6dWIwbXcwREhWTE9jcmJzWVpfQmQ4WnlqNUwwSTJuaFZEeXpJMl9JTmRsS3Q1bW1VcXYtRVFzSHF2VWYwSTJhQVh2NVJaa3Rvbi1hZzluLW5obVhCM1haWWh1eEgzNHRrbzB2M0g0Wl9mYnRUSVZIb3l1Z1IwYWpKb0RhQlVyeVYyVDFKZVc4Y09iZVVVVjMxaEhLdVM5ak1JTEJtTXd2MjBB?oc=5",
-      "source": "DQ",
-      "publishedAt": "2026-11-12T01:00:37.000Z",
-      "summary": "",
-      "topics": [
-        "manufacturing"
-      ]
-    },
-    {
-      "id": "6b43e957459d",
-      "title": "South Korea's KOSPI Bottom-Calling Returns After 220 Trillion Won Foreign Exodus: Time to Bet on the AI Chip Big Cycle?",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mNVlCTVNwemJqaDdqOWYzTmFMU08xY3Q4cXdQRTN5Y2Uzbmg5RXFQcUJvcm5qSkNBS29GUFQ0ZUtBYmdWOU0xTFZSM2ZHTk9nNlN2elRsUld4YXp2ZmZCUDZTeXJ0NDhtODI4MFlqRnJPN0lmOUE?oc=5",
-      "source": "BigGo Finance",
-      "publishedAt": "2026-11-12T00:56:00.000Z",
-      "summary": "",
-      "topics": [
-        "ai"
-      ]
     }
   ]
 }
