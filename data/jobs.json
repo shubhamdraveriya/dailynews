@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T19:40:01.607Z",
-  "count": 232,
+  "generatedAt": "2026-11-17T03:57:29.887Z",
+  "count": 230,
   "items": [
     {
       "id": "3c6be1a9098e",
@@ -486,20 +486,6 @@
       "sourceKey": "greenhouse:asteralabs"
     },
     {
-      "id": "8783933d81b2",
-      "title": "Synthesis & STA Engineer – High-Speed SerDes",
-      "company": "Astera Labs",
-      "location": "San Jose, California, United States",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4748148005",
-      "postedAt": "2026-10-27T17:35:59.000Z",
-      "categories": [
-        "physical",
-        "analog"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
       "id": "2ab486e62884",
       "title": "Senior Design Verification Engineer",
       "company": "Astera Labs",
@@ -969,20 +955,6 @@
       "postedAt": "2026-09-22T09:46:03.000Z",
       "categories": [
         "design"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "890eaf86dc9b",
-      "title": "Design Verification Tech Lead- SerDes/PHY IP",
-      "company": "Astera Labs",
-      "location": "San Jose, California, United States",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4733710005",
-      "postedAt": "2026-09-21T17:11:39.000Z",
-      "categories": [
-        "verification",
-        "analog"
       ],
       "sourceKey": "greenhouse:asteralabs"
     },
