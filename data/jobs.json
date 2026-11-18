@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T00:59:49.815Z",
-  "count": 227,
+  "generatedAt": "2026-11-18T20:38:34.115Z",
+  "count": 224,
   "items": [
     {
       "id": "3c6be1a9098e",
@@ -2595,45 +2595,6 @@
         "dft"
       ],
       "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "8d99f513765d",
-      "title": "Staff/Sr. Staff Design Verification",
-      "company": "Lightmatter",
-      "location": "Boston, MA",
-      "region": "global",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5026019008?gh_jid=5026019008",
-      "postedAt": "2025-12-09T21:57:20.000Z",
-      "categories": [
-        "verification"
-      ],
-      "sourceKey": "greenhouse:lightmatter"
-    },
-    {
-      "id": "2b9afd5b432a",
-      "title": "Staff/Sr. Staff Design Verification",
-      "company": "Lightmatter",
-      "location": "Mountain View, CA",
-      "region": "global",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5026014008?gh_jid=5026014008",
-      "postedAt": "2025-12-09T21:55:45.000Z",
-      "categories": [
-        "verification"
-      ],
-      "sourceKey": "greenhouse:lightmatter"
-    },
-    {
-      "id": "2f0a86c916f2",
-      "title": "Staff/Sr. Staff Design Verification Engineer",
-      "company": "Lightmatter",
-      "location": "Toronto, ON",
-      "region": "global",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/4973182008?gh_jid=4973182008",
-      "postedAt": "2025-11-05T01:23:06.000Z",
-      "categories": [
-        "verification"
-      ],
-      "sourceKey": "greenhouse:lightmatter"
     },
     {
       "id": "eec82c74019f",
