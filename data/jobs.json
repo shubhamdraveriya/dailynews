@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-17T16:09:29.788Z",
-  "count": 229,
+  "generatedAt": "2026-11-18T00:59:49.815Z",
+  "count": 227,
   "items": [
     {
       "id": "3c6be1a9098e",
@@ -36,19 +36,6 @@
       "region": "global",
       "url": "https://boards.greenhouse.io/lightmatter/jobs/5481668008?gh_jid=5481668008",
       "postedAt": "2026-11-13T17:18:06.000Z",
-      "categories": [
-        "physical"
-      ],
-      "sourceKey": "greenhouse:lightmatter"
-    },
-    {
-      "id": "cc1ab9533a9d",
-      "title": "Sr. Physical Design Flow & Methodology Engineer",
-      "company": "Lightmatter",
-      "location": "Boston, MA",
-      "region": "global",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5477588008?gh_jid=5477588008",
-      "postedAt": "2026-11-12T00:37:26.000Z",
       "categories": [
         "physical"
       ],
@@ -760,19 +747,6 @@
         "physical"
       ],
       "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "5cc080f9d60d",
-      "title": "SMT Process Engineer (Greenfield Factory)",
-      "company": "Etched",
-      "location": "San Jose",
-      "region": "global",
-      "url": "https://jobs.ashbyhq.com/Etched/2a26154f-991b-4ed2-b189-555ced916791",
-      "postedAt": "2026-10-09T21:59:05.316Z",
-      "categories": [
-        "process"
-      ],
-      "sourceKey": "ashby:etched"
     },
     {
       "id": "968c8cd5946e",
