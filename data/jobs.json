@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:38:34.115Z",
+  "generatedAt": "2026-11-19T02:37:50.719Z",
   "count": 224,
   "items": [
     {
@@ -1744,6 +1744,19 @@
       "sourceKey": "greenhouse:lightmatter"
     },
     {
+      "id": "31d90a43b7af",
+      "title": "Director, Photonics Hardware Validation",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5277171008?gh_jid=5277171008",
+      "postedAt": "2026-07-01T01:55:50.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
       "id": "a28db0c250a9",
       "title": "DFT Engineer",
       "company": "Tenstorrent",
@@ -2450,19 +2463,6 @@
       "postedAt": "2026-02-22T08:09:38.000Z",
       "categories": [
         "physical"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "378120e1c632",
-      "title": "Senior Director System Validation Engineer",
-      "company": "Astera Labs",
-      "location": "San Jose, CA",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4661550005",
-      "postedAt": "2026-02-21T02:02:24.000Z",
-      "categories": [
-        "validation"
       ],
       "sourceKey": "greenhouse:asteralabs"
     },
