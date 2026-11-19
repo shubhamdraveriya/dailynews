@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-19T02:37:50.719Z",
-  "count": 224,
+  "generatedAt": "2026-11-19T20:44:02.970Z",
+  "count": 227,
   "items": [
+    {
+      "id": "707a941519f3",
+      "title": "Silicon Validation & Test Automation, Intern Summer 2027",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473832008?gh_jid=5473832008",
+      "postedAt": "2026-11-19T18:27:57.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
     {
       "id": "3c6be1a9098e",
       "title": "DFT Engineer (Contractor)",
@@ -14,19 +27,6 @@
         "dft"
       ],
       "sourceKey": "greenhouse:tenstorrent"
-    },
-    {
-      "id": "0ceef68add5a",
-      "title": "Hardware Test Engineering, Intern (Summer 2027)",
-      "company": "Lightmatter",
-      "location": "Mountain View, CA",
-      "region": "global",
-      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473869008?gh_jid=5473869008",
-      "postedAt": "2026-11-13T21:29:35.000Z",
-      "categories": [
-        "dft"
-      ],
-      "sourceKey": "greenhouse:lightmatter"
     },
     {
       "id": "3d6b9587c00d",
@@ -42,6 +42,32 @@
       "sourceKey": "greenhouse:lightmatter"
     },
     {
+      "id": "a3d124eda4d6",
+      "title": "Analog Engineering Intern - Summer 2027",
+      "company": "Lightmatter",
+      "location": "Boston, MA; Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5475081008?gh_jid=5475081008",
+      "postedAt": "2026-11-11T22:01:46.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "3d73cbdbbf03",
+      "title": "Chip Architecture Intern – Summer 2027",
+      "company": "Lightmatter",
+      "location": "Boston, MA; Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5468924008?gh_jid=5468924008",
+      "postedAt": "2026-11-11T21:49:35.000Z",
+      "categories": [
+        "architecture"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
       "id": "35d94493cb63",
       "title": "Emulation Engineer",
       "company": "MatX",
@@ -53,6 +79,32 @@
         "verification"
       ],
       "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "6a344d4e349b",
+      "title": "Analog Engineering Intern - Summer 2027",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473774008?gh_jid=5473774008",
+      "postedAt": "2026-11-11T18:27:35.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "cc14a9f86735",
+      "title": "Analog Engineering Intern - Summer 2027",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5473749008?gh_jid=5473749008",
+      "postedAt": "2026-11-11T18:07:08.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
     },
     {
       "id": "25656e5bff0b",
@@ -196,19 +248,6 @@
         "verification"
       ],
       "sourceKey": "ashby:matx"
-    },
-    {
-      "id": "010f2defd905",
-      "title": "Lead Verification Engineer",
-      "company": "Astera Labs",
-      "location": "San Jose, California, United States",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4746009005",
-      "postedAt": "2026-11-03T17:28:13.000Z",
-      "categories": [
-        "verification"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
     },
     {
       "id": "e7f09e27687c",
