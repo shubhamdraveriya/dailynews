@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-11-19T20:44:02.970Z",
-  "count": 227,
+  "generatedAt": "2026-11-20T02:22:43.013Z",
+  "count": 229,
   "items": [
+    {
+      "id": "effc25225f8d",
+      "title": "Senior System Validation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4756339005",
+      "postedAt": "2026-11-19T21:00:40.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "a26f0e107407",
+      "title": "Lead System Validation Engineer",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4756340005",
+      "postedAt": "2026-11-19T20:57:26.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
     {
       "id": "707a941519f3",
       "title": "Silicon Validation & Test Automation, Intern Summer 2027",
