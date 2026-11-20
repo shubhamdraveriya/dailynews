@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-11-20T02:22:43.013Z",
-  "count": 229,
+  "generatedAt": "2026-11-20T20:28:33.661Z",
+  "count": 233,
   "items": [
+    {
+      "id": "1b0b8f7c0f02",
+      "title": "Staff/Sr. Staff Design Verification Engineer",
+      "company": "Lightmatter",
+      "location": "Toronto, ON",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5485386008?gh_jid=5485386008",
+      "postedAt": "2026-11-20T18:22:52.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "d62484765663",
+      "title": "Staff/Sr. Staff Design Verification Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5485388008?gh_jid=5485388008",
+      "postedAt": "2026-11-20T18:22:49.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "b9c8fad1b98c",
+      "title": "Staff/Sr. Staff Design Verification Engineer",
+      "company": "Lightmatter",
+      "location": "Boston, MA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5485389008?gh_jid=5485389008",
+      "postedAt": "2026-11-20T18:22:47.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
     {
       "id": "effc25225f8d",
       "title": "Senior System Validation Engineer",
@@ -1102,20 +1141,6 @@
       "sourceKey": "greenhouse:asteralabs"
     },
     {
-      "id": "8aae81f25b0a",
-      "title": "Front End Design Verification Engineer",
-      "company": "Tenstorrent",
-      "location": "Santa Clara, California, United States; Spain",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5238208007",
-      "postedAt": "2026-09-15T14:28:12.000Z",
-      "categories": [
-        "design",
-        "verification"
-      ],
-      "sourceKey": "greenhouse:tenstorrent"
-    },
-    {
       "id": "e7b3438668be",
       "title": "Principal/ Sr Principal Digital Design Engineer",
       "company": "Astera Labs",
@@ -1751,6 +1776,32 @@
       "region": "global",
       "url": "https://boards.greenhouse.io/lightmatter/jobs/5295127008?gh_jid=5295127008",
       "postedAt": "2026-07-14T21:51:36.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "9025319292b2",
+      "title": "Principal Analog/Mixed Signal Architect",
+      "company": "Lightmatter",
+      "location": "Toronto, ON",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5324053008?gh_jid=5324053008",
+      "postedAt": "2026-07-13T23:13:17.000Z",
+      "categories": [
+        "analog"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "c17435a920bc",
+      "title": "Principal Analog/Mixed Signal Architect",
+      "company": "Lightmatter",
+      "location": "Boston, MA; Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5323968008?gh_jid=5323968008",
+      "postedAt": "2026-07-13T23:13:15.000Z",
       "categories": [
         "analog"
       ],
