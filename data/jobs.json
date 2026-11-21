@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-20T20:28:33.661Z",
-  "count": 233,
+  "generatedAt": "2026-11-21T02:25:04.320Z",
+  "count": 234,
   "items": [
+    {
+      "id": "43c81d3ff490",
+      "title": "Senior/Principal System Validation Engineer (AI Fabric Switches)",
+      "company": "Astera Labs",
+      "location": "San Jose, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4757408005",
+      "postedAt": "2026-11-20T21:28:47.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
     {
       "id": "1b0b8f7c0f02",
       "title": "Staff/Sr. Staff Design Verification Engineer",
