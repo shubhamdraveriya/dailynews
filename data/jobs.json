@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-21T02:25:04.320Z",
-  "count": 234,
+  "generatedAt": "2026-11-23T01:47:37.492Z",
+  "count": 235,
   "items": [
+    {
+      "id": "d5fae2d10a2f",
+      "title": "Principal Engineer, SoC Platform Architect",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5299561007",
+      "postedAt": "2026-11-22T23:07:03.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
     {
       "id": "43c81d3ff490",
       "title": "Senior/Principal System Validation Engineer (AI Fabric Switches)",
@@ -1102,8 +1115,8 @@
       "sourceKey": "greenhouse:asteralabs"
     },
     {
-      "id": "f81ae1a3dc71",
-      "title": "Substrate IC Package Layout Design Engineer (Taiwan)",
+      "id": "c8b1832b0cfb",
+      "title": "Substrate IC Package Layout Design Engineer",
       "company": "Etched",
       "location": "Taipei",
       "region": "global",
