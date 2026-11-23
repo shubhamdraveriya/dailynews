@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T01:47:37.492Z",
-  "count": 235,
+  "generatedAt": "2026-11-23T13:00:30.299Z",
+  "count": 233,
   "items": [
     {
       "id": "d5fae2d10a2f",
@@ -1232,19 +1232,6 @@
       "sourceKey": "greenhouse:asteralabs"
     },
     {
-      "id": "193f4793f788",
-      "title": "Senior STA Engineer",
-      "company": "Astera Labs",
-      "location": "Ahmedabad, Gujarat, India",
-      "region": "india",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4727003005",
-      "postedAt": "2026-09-11T06:21:20.000Z",
-      "categories": [
-        "physical"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
       "id": "7578ca88132c",
       "title": "Senior Digital Design Engineer",
       "company": "Astera Labs",
@@ -1464,19 +1451,6 @@
       "postedAt": "2026-08-18T19:27:16.000Z",
       "categories": [
         "dft"
-      ],
-      "sourceKey": "greenhouse:sambanovasystems"
-    },
-    {
-      "id": "e8c0111a3d8a",
-      "title": "Design Verification Engineer",
-      "company": "SambaNova",
-      "location": "San Jose, California, United States",
-      "region": "global",
-      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6146139004",
-      "postedAt": "2026-08-18T19:26:58.000Z",
-      "categories": [
-        "verification"
       ],
       "sourceKey": "greenhouse:sambanovasystems"
     },
