@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-24T02:16:21.600Z",
+  "generatedAt": "2026-11-24T13:52:40.076Z",
   "count": 231,
   "items": [
+    {
+      "id": "3e5add9af9ed",
+      "title": "Tech Lead ATE Test Engineer",
+      "company": "Astera Labs",
+      "location": "Taipei, Taiwan",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4758207005",
+      "postedAt": "2026-11-24T10:16:05.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
     {
       "id": "c1251b393cf9",
       "title": "AI Chip Architect",
@@ -2738,19 +2751,6 @@
         "verification"
       ],
       "sourceKey": "ashby:etched"
-    },
-    {
-      "id": "1019e81b9a8a",
-      "title": "System Validation Engineer - Haifa",
-      "company": "Astera Labs",
-      "location": "Haifa District, Israel",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4602995005",
-      "postedAt": "2025-08-29T01:25:30.000Z",
-      "categories": [
-        "validation"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
     },
     {
       "id": "9370bbf36b47",
