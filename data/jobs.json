@@ -1,7 +1,33 @@
 {
-  "generatedAt": "2026-11-23T13:00:30.299Z",
-  "count": 233,
+  "generatedAt": "2026-11-24T02:16:21.600Z",
+  "count": 231,
   "items": [
+    {
+      "id": "c1251b393cf9",
+      "title": "AI Chip Architect",
+      "company": "MatX",
+      "location": "Mountain View (HQ) or Remote · Remote",
+      "region": "remote",
+      "url": "https://jobs.ashbyhq.com/matx/c42fc59c-d00c-4068-8322-cd841b298554",
+      "postedAt": "2026-11-23T22:22:28.279Z",
+      "categories": [
+        "architecture"
+      ],
+      "sourceKey": "ashby:matx"
+    },
+    {
+      "id": "8cd18e8d5083",
+      "title": "Package Design Engineer",
+      "company": "Tenstorrent",
+      "location": "Toronto, Ontario, Canada",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5307121007",
+      "postedAt": "2026-11-23T21:21:50.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
     {
       "id": "d5fae2d10a2f",
       "title": "Principal Engineer, SoC Platform Architect",
@@ -985,19 +1011,6 @@
       "sourceKey": "greenhouse:tenstorrent"
     },
     {
-      "id": "8c68f64c16e1",
-      "title": "Post-Silicon Lab Manager",
-      "company": "Tenstorrent",
-      "location": "Santa Clara, California, United States",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5247937007",
-      "postedAt": "2026-09-28T13:19:18.000Z",
-      "categories": [
-        "validation"
-      ],
-      "sourceKey": "greenhouse:tenstorrent"
-    },
-    {
       "id": "3846436c05f2",
       "title": "Staff Engineer, Post-Silicon Validation",
       "company": "Tenstorrent",
@@ -1560,19 +1573,6 @@
       "sourceKey": "greenhouse:lightmatter"
     },
     {
-      "id": "78ca5bd4e459",
-      "title": "Distinguished ASIC Design Engineer",
-      "company": "Astera Labs",
-      "location": "Germany (Onsite)",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4720386005",
-      "postedAt": "2026-08-02T12:44:18.000Z",
-      "categories": [
-        "design"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
       "id": "8a948e009ad3",
       "title": "Senior Principal ASIC Design Engineer",
       "company": "Astera Labs",
@@ -2032,19 +2032,6 @@
       "sourceKey": "greenhouse:asteralabs"
     },
     {
-      "id": "87faf8f2790f",
-      "title": "Hardware Design Engineering, Senior Director - Signal Connectivity Rack-Scale Platforms",
-      "company": "Astera Labs",
-      "location": "San Jose, California, United States",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4702153005",
-      "postedAt": "2026-06-03T23:01:53.000Z",
-      "categories": [
-        "design"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
       "id": "a266c213b01f",
       "title": "Physical Design Student",
       "company": "Astera Labs",
@@ -2372,19 +2359,6 @@
         "dft"
       ],
       "sourceKey": "ashby:etched"
-    },
-    {
-      "id": "512535606b46",
-      "title": "AI/ML Physical Design Flow Engineer",
-      "company": "Tenstorrent",
-      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5098932007",
-      "postedAt": "2026-04-03T18:56:04.000Z",
-      "categories": [
-        "physical"
-      ],
-      "sourceKey": "greenhouse:tenstorrent"
     },
     {
       "id": "2c9079f16837",
