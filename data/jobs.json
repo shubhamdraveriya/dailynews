@@ -1,7 +1,72 @@
 {
-  "generatedAt": "2026-11-24T13:52:40.076Z",
-  "count": 231,
+  "generatedAt": "2026-11-24T23:56:01.043Z",
+  "count": 236,
   "items": [
+    {
+      "id": "67e44b893b52",
+      "title": "Design Verification, Intern Summer 2027",
+      "company": "Lightmatter",
+      "location": "Boston, MA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5493962008?gh_jid=5493962008",
+      "postedAt": "2026-11-24T22:59:01.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "5a81d91d296f",
+      "title": "Design Verification, Intern Summer 2027",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5474684008?gh_jid=5474684008",
+      "postedAt": "2026-11-24T22:58:59.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "7e320ceefd22",
+      "title": "Physical Design Engineer - STA",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5307365007",
+      "postedAt": "2026-11-24T20:30:40.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
+    {
+      "id": "e86d158f3ba1",
+      "title": "Package Design Layout & Automation Engineer",
+      "company": "Lightmatter",
+      "location": "Mountain View, CA",
+      "region": "global",
+      "url": "https://boards.greenhouse.io/lightmatter/jobs/5492485008?gh_jid=5492485008",
+      "postedAt": "2026-11-24T20:01:07.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:lightmatter"
+    },
+    {
+      "id": "1ae04d2c3f8e",
+      "title": "Tech Lead Photonics Layout Engineer",
+      "company": "Astera Labs",
+      "location": "Irvine, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4757759005",
+      "postedAt": "2026-11-24T17:40:09.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
     {
       "id": "3e5add9af9ed",
       "title": "Tech Lead ATE Test Engineer",
