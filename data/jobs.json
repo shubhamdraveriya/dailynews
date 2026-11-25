@@ -1,7 +1,72 @@
 {
-  "generatedAt": "2026-11-24T23:56:01.043Z",
-  "count": 236,
+  "generatedAt": "2026-11-25T19:22:49.247Z",
+  "count": 241,
   "items": [
+    {
+      "id": "aee77c7ae984",
+      "title": "DFT Engineer Intern",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271345004",
+      "postedAt": "2026-11-25T17:45:52.000Z",
+      "categories": [
+        "dft"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "df0cfe605bcb",
+      "title": "Physical Design Engineer Intern",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271338004",
+      "postedAt": "2026-11-25T17:40:00.000Z",
+      "categories": [
+        "physical"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "a56d6d42da90",
+      "title": "RTL Design Engineer Intern",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271328004",
+      "postedAt": "2026-11-25T17:34:27.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "57b106b77b32",
+      "title": "Design Verification Engineer Intern",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271308004",
+      "postedAt": "2026-11-25T17:14:19.000Z",
+      "categories": [
+        "verification"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
+    {
+      "id": "78aea8d43194",
+      "title": "Post-Silicon Validation Engineer Intern",
+      "company": "SambaNova",
+      "location": "Austin, Texas, United States; San Jose, California, United States",
+      "region": "global",
+      "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6271200004",
+      "postedAt": "2026-11-25T16:49:28.000Z",
+      "categories": [
+        "validation"
+      ],
+      "sourceKey": "greenhouse:sambanovasystems"
+    },
     {
       "id": "67e44b893b52",
       "title": "Design Verification, Intern Summer 2027",
