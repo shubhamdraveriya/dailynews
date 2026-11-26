@@ -1,7 +1,59 @@
 {
-  "generatedAt": "2026-11-26T03:37:38.088Z",
-  "count": 241,
+  "generatedAt": "2026-11-26T17:00:21.141Z",
+  "count": 246,
   "items": [
+    {
+      "id": "f0a432f322e2",
+      "title": "Senior SoC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4729094005",
+      "postedAt": "2026-11-26T10:55:13.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "12fee8d6c49f",
+      "title": "Senior Principal SoC Chip Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4758816005",
+      "postedAt": "2026-11-26T10:54:01.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "ec553c84927d",
+      "title": "Lead SoC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4758818005",
+      "postedAt": "2026-11-26T10:49:36.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "296107fe19b1",
+      "title": "Principal SoC Design Engineer",
+      "company": "Astera Labs",
+      "location": "Bengaluru, Karnataka, India",
+      "region": "india",
+      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4758817005",
+      "postedAt": "2026-11-26T10:47:19.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:asteralabs"
+    },
     {
       "id": "3d820436c63d",
       "title": "SoC System Architect",
@@ -1112,6 +1164,19 @@
         "design"
       ],
       "sourceKey": "greenhouse:asteralabs"
+    },
+    {
+      "id": "a3a888cd731c",
+      "title": "Technical Program Manager SOC & Digital Design",
+      "company": "Tenstorrent",
+      "location": "Tokyo, Japan",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5251842007",
+      "postedAt": "2026-09-29T16:24:24.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
     },
     {
       "id": "988960176a49",
