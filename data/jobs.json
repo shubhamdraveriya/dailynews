@@ -1,7 +1,20 @@
 {
-  "generatedAt": "2026-11-25T19:22:49.247Z",
+  "generatedAt": "2026-11-26T03:37:38.088Z",
   "count": 241,
   "items": [
+    {
+      "id": "3d820436c63d",
+      "title": "SoC System Architect",
+      "company": "Tenstorrent",
+      "location": "Austin, Texas, United States; Santa Clara, California, United States",
+      "region": "global",
+      "url": "https://job-boards.greenhouse.io/tenstorrent/jobs/5309734007",
+      "postedAt": "2026-11-25T20:37:10.000Z",
+      "categories": [
+        "design"
+      ],
+      "sourceKey": "greenhouse:tenstorrent"
+    },
     {
       "id": "aee77c7ae984",
       "title": "DFT Engineer Intern",
@@ -1356,19 +1369,6 @@
       "region": "global",
       "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4729033005",
       "postedAt": "2026-09-14T14:20:28.000Z",
-      "categories": [
-        "verification"
-      ],
-      "sourceKey": "greenhouse:asteralabs"
-    },
-    {
-      "id": "b86411f62c6b",
-      "title": "Senior Design Verification Engineer",
-      "company": "Astera Labs",
-      "location": "Toronto, Ontario, Canada",
-      "region": "global",
-      "url": "https://job-boards.greenhouse.io/asteralabs/jobs/4731808005",
-      "postedAt": "2026-09-11T17:24:40.000Z",
       "categories": [
         "verification"
       ],
